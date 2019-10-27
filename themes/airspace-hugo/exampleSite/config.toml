@@ -6,7 +6,7 @@ theme = "airspace-hugo"
 # The site's parameters
 [params]
   home = "Home"
-
+  
   [menu]
 
     [[menu.header]]
@@ -79,10 +79,10 @@ theme = "airspace-hugo"
   [params.call]
     enable = true
     bgImage = "img/call-to-action-bg.jpg"
-    title = "We do the things you need to"
-    paragraph = "Whatever your situation or needs are we can help you with a range of immigration and family law matters"
+    title = "We design delightful digital experiences."
+    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
     [params.call.button]
-      url = "../contact"
+      url = "#"
       text = "tell us your story"
 
   [params.contact]
@@ -96,10 +96,9 @@ theme = "airspace-hugo"
       message = "Your message"
       button = "Send message"
     [params.contact.box]
-      title = "Contact information"
-      address = "208 S Jefferson Street Suite 204, Chicago IL 60661"
-      email = "Email: keith@southamlaw.com"
-      phone = "Phone: +1 773 466 4478"
+      title = "Stop by for a visit"
+      address = "North Main Street, Brooklyn Australia"
+      email = "Email: contact@mail.com"
+      phone = "Phone: +88 01672 506 744"
     [params.contact.gmaps]
-      title = "Southam Law's home in Chicago"
-      url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.650847388626!2d-87.64512244923684!3d41.87885797324426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cc164bf57e1%3A0xa7583ae89d38c536!2sSoutham%20Law!5e0!3m2!1sen!2sus!4v1572195864812!5m2!1sen!2sus"
+      title = "We Also Count in Google Maps"
