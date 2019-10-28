@@ -4,7 +4,7 @@ date = "2016-11-08T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 I once read an article that indicated well over ninety percent of immigration lawyers are Democrats. It was unsurprising. When the rhetoric of the two party nominees for President are placed side by side, this choice is understandable. Indeed, this election has painted the Democrats as the party for immigration and the Republicans as the party against immigration. But immigration should not be a partisan issue. Immigration law unites a wide swath of interests across party lines. Business interests want streamlined paths for work visas. Community and charitable groups want to help millions of individuals regularize their immigration status. And everyone agrees that immigration law should work to promote family unity.

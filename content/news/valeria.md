@@ -4,7 +4,7 @@ date = "2018-06-14T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Valeria came to the United States with a tourist visa to improve her English and see the United States. After her arrival, she decided to stay and enroll in English school with the hope of going to graduate school. She contacted Keith Southam at Southam Law to help with a change to student status.

@@ -19,8 +19,8 @@ theme = "airspace-hugo"
       url = "news"
     [[menu.header]]
       weight = 4
-      name = "Service"
-      url = "service"
+      name = "Services"
+      url = "services"
     [[menu.header]]
       weight = 5
       name = "Contact"
@@ -42,10 +42,10 @@ theme = "airspace-hugo"
       weight = 4
       name = "News"
       url = "news"
-    [[menu.footer]]
-      weight = 5
-      name = "Terms"
-      url = "#"
+    # [[menu.footer]]
+    #   weight = 5
+    #   name = "Terms"
+    #   url = "#"
 
   [params.slider]
     enable = true
@@ -53,11 +53,11 @@ theme = "airspace-hugo"
     subtitle = "Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex."
     bgImage = "img/slider-bg.jpg"
     btnText = "See the services we offer"
-    url = "/service"
+    url = "/services"
 
   [params.wrapper]
     enable = true
-    image = "images/contact-keith.png"
+    image = "images/keith-keith.png"
     title = "About Us"
     italic = "Southam Law is here to help"
     paragraph = "Keith Southam is the founder and principal of Southam Law. Keith has built a career around helping immigrants. Keith worked as an international student advisor and an ESL teacher before law school. In law school, Keith focused on immigration law, including an internship at the Chicago Immigration Court and a clerkship with a solo practitioner of immigration law. After law school, Keith worked for five years as an associate attorney for a boutique immigration firm in Chicago where he handled a range of immigration law matters, including family-based green cards, non-immigrant work visas, DACA, asylum, deportation defense, and many other areas. The skills as a student advisor and ESL teacher give Keith a unique approach to immigration law. This approach is centered on providing easy-to-understand and accurate information so that every client can make fully-informed decisions"
@@ -71,7 +71,7 @@ theme = "airspace-hugo"
     enable = true
     title = "We fight for immigrants and families"
     bgImage = "img/feature-bg.jpg"
-    content = "We have helped hundreds of immigrants and their families get what they need."
+    content = "<p>A main goal of Southam Law is to ensure that you understand how immigration law affects your unique situation. Unlike other law offices, Southam Law will always take the time to explain the choices you have in order to make sure that you can make the best possible decisions.</p> <p>Southam Law also recognizes that another barrier in this area is cost. Lawyers are expensive, and frequently the final costs are not clear in advance. In virtually all cases, Southam Law charges flat fees, which means the costs for legal services are fixed in advance. This eliminates the shock of surprisingly high bills. Additionally, in many cases, Southam Law also offers different levels of service. You can tell Southam Law a cost level that is comfortable for you, and Southam Law will work to tailor a package of legal services that fit your budget.</p>"
     [params.feature.button]
       caption = "View success stories"
       url = "/work"
@@ -98,8 +98,9 @@ theme = "airspace-hugo"
     [params.contact.box]
       title = "Contact information"
       address = "208 S Jefferson Street Suite 204, Chicago IL 60661"
-      email = "Email: keith@southamlaw.com"
-      phone = "Phone: +1 773 466 4478"
+      email = "keith@southamlaw.com"
+      phone = "+1 773 466 4478"
+      note = "(Please note that office hours are by appointment only)"
     [params.contact.gmaps]
       title = "Southam Law's home in Chicago"
       url = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.650847388626!2d-87.64512244923684!3d41.87885797324426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cc164bf57e1%3A0xa7583ae89d38c536!2sSoutham%20Law!5e0!3m2!1sen!2sus!4v1572195864812!5m2!1sen!2sus"

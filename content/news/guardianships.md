@@ -4,7 +4,7 @@ date = "2017-05-11T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 More and more, immigrants are talking about guardianships for their children. But what is a guardianship and do all immigrants need one? The short answers are: 1) a guardianship allows someone to act like a parent for your child if you cannot and 2) only in certain circumstances.

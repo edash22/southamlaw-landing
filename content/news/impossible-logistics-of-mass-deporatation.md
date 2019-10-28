@@ -4,7 +4,7 @@ date = "2016-11-23T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Could the president-elect actually deport millions of people? Legally, yes. Logistically and politically, the answer is unclear.

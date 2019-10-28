@@ -4,7 +4,7 @@ date = "2018-04-17T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Käthe became a permanent resident several years ago based on her marriage to her US citizen wife, Laura. The two were happily living together in Chicago with their sons when Laura was offered a post-doctoral fellowship in Europe. Laura of course wanted to take the fellowship, but Käthe was worried about losing her green card status in the US. Living in Europe could jeopardize that status. Käthe also wanted to apply to become a US citizen, but for that application, she had to prove that she and Laura had lived together in the US for three years. And on top of all that, Käthe comes from a country that is skeptical of dual citizens, requiring her to get advance permission to become a US citizen or risk losing the citizenship of her country of birth. With all of these constraints in mind, Käthe turned to Keith at Southam Law.

@@ -4,7 +4,7 @@ date = "2017-01-07T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 The start of the new year is a good time to get serious about H-1B applications. An H-1B is a work visa for professional-level employees, such as IT workers, engineers, accountants, and many others. With luck, and in the hands of an experienced immigration attorney, H-1B visas are an effective tool to attract and retain talented workers from outside of the US. However, there are many places where the H-1B application can fall apart. Here are three common pitfalls.

@@ -4,7 +4,7 @@ date = "2018-04-04T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Naziha came to the US several years ago as a student. Naziha was married at that time but things were rocky, and ultimately she decided to divorce her husband. Her husband and his family had previously been gruff with Naziha, and their attitude only worsened after the divorce. Naziha continued to live and study in the US. She eventually also had a falling-out with her own family, and that's when Naziha began to worry for her safety in her home country.

@@ -4,7 +4,7 @@ date = "2018-07-20T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Natalia and Daniel grew up in Venezuela. Like many people in their country, they watched in horror as Hugo Chavez and then Nicolas Maduro took step after step to turn the country into a dictatorship. Natalia’s family had always been politically active, and she worked to oppose the Chavez/Maduro regime. Natalia protested in opposition demonstrations and volunteered for an opposition party, encouraging others to vote and monitoring polling places. Pro-regime forces noticed and were not pleased. Natalia was met with intimidation at first, but she persisted. She and other volunteers were once forced into a room and held by pro-regime forces who ultimately “only” robbed and threatened the volunteers.

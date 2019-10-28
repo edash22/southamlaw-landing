@@ -18,9 +18,11 @@
 						{{ with .Params.image }}
 						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
 						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+						{{ if not .Params.image }}
 						<p>
 							{{ .Summary }}
 						</p>
+						{{ end }}
 						<a href="{{ .Permalink }}" class="btn btn-main">Read More</a>
 					</article>
 				</div>

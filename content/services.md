@@ -1,5 +1,5 @@
 +++
-title = "Contact"
-id = "contact"
+title = "Services"
+id = "services"
 bgImage = "img/slider-bg.jpg"
 +++

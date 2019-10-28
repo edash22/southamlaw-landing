@@ -4,7 +4,7 @@ date = "2018-10-29T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 Jamal moved to the United States with his family several years ago. In 2016, Jamal and Sana married, and they began the process of helping Sana move to the US to be with Jamal. At that time, Jamal was a US permanent resident, so it meant that Sana had to spend time on a waiting list before she could move permanently to the US. Sana was still a student in her home country during this time, but she had traveled to the US for a temporary visit to see Jamal and to take an examination in connection with her studies. Then circumstances changed. The waiting list surged forward and Sana had the unexpected opportunity to stay permanently in the US.

@@ -41,10 +41,13 @@
               <i class="fa fa-map-marker"></i>{{ .box.address }}
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>{{ .box.email }}
+              <i class="fa fa-envelope-o"></i>Email <a href = "mailto:{{ .box.email }}">{{ .box.email }}</a>
             </li>
             <li>
-              <i class="fa fa-phone"></i>{{ .box.phone }}
+              <i class="fa fa-phone"></i>Phone: {{ .box.phone }}
+            </li>
+            <li>
+              <i class="fa"></i>{{ .box.note }}
             </li>
           </ul>
           <ul class="social-icons">

@@ -4,7 +4,7 @@ date = "2016-08-11T13:07:31+02:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 

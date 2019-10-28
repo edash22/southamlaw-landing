@@ -4,7 +4,7 @@ date = "2016-10-02T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+
 author = "Keith"
 +++
 “If he wins, I’m moving to Canada.” I take this quip as both the joke and the warning it is intended to be. But the quip highlights something else. Picking up and moving to another country is an option for individuals with edcuation, connections, and resources. To that list, I will add citizenship in a developed nation. Not everyone enjoys all of thse things, and this fact highlights something that is easy to overlook: the intersection of immigration and privilege.
