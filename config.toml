@@ -15,8 +15,8 @@ theme = "airspace-hugo"
       url = "success"
     [[menu.header]]
       weight = 3
-      name = "Blog"
-      url = "blog"
+      name = "News"
+      url = "news"
     [[menu.header]]
       weight = 4
       name = "Service"
@@ -40,8 +40,8 @@ theme = "airspace-hugo"
       url = "work"
     [[menu.footer]]
       weight = 4
-      name = "Blog"
-      url = "blog"
+      name = "News"
+      url = "news"
     [[menu.footer]]
       weight = 5
       name = "Terms"
@@ -52,8 +52,8 @@ theme = "airspace-hugo"
     title = "I don't know"
     subtitle = "Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex."
     bgImage = "img/slider-bg.jpg"
-    btnText = "Discover Our Projects"
-    url = "#"
+    btnText = "See the services we offer"
+    url = "/service"
 
   [params.wrapper]
     enable = true
@@ -62,7 +62,7 @@ theme = "airspace-hugo"
     italic = "Southam Law is here to help"
     paragraph = "Keith Southam is the founder and principal of Southam Law. Keith has built a career around helping immigrants. Keith worked as an international student advisor and an ESL teacher before law school. In law school, Keith focused on immigration law, including an internship at the Chicago Immigration Court and a clerkship with a solo practitioner of immigration law. After law school, Keith worked for five years as an associate attorney for a boutique immigration firm in Chicago where he handled a range of immigration law matters, including family-based green cards, non-immigrant work visas, DACA, asylum, deportation defense, and many other areas. The skills as a student advisor and ESL teacher give Keith a unique approach to immigration law. This approach is centered on providing easy-to-understand and accurate information so that every client can make fully-informed decisions"
 
-  [params.blog]
+  [params.news]
     enable = true
     title = "Read about recent updates with the office and immigration law"
     subtitle = "Catch up with us, anytime and anywhere"

@@ -1,7 +1,7 @@
 enable: true
 title: Fun Facts About Us
 paragraph: >
-  Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics
+  Keith has a passion for languages and helping immigrants and families. 
 
 number:
   enable : true
@@ -12,10 +12,10 @@ numbers:
   - icon: ion-ios-glasses-outline
     counter: 7893
     text: Forms reviewed
-  - icon: ion-ios-checkmark
+  - icon: ion-ios-checkmark-outline
     counter: 243
     text: Successful cases
-  - icon: ion-ios-cafe
+  - icon: ion-coffee
     counter: 2000
     text: Cups of Coffee
 
