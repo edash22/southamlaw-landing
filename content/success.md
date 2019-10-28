@@ -1,5 +1,5 @@
 +++
 title = "Success stories"
 id = "success"
-bgImage = "img/slider-bg.jpg"
+bgImage = "images/depaul-loop-trimmed.jpg"
 +++

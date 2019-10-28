@@ -51,7 +51,7 @@ theme = "airspace-hugo"
     enable = true
     title = "I don't know"
     subtitle = "Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex."
-    bgImage = "img/slider-bg.jpg"
+    bgImage = "images/depaul-loop.jpg"
     btnText = "See the services we offer"
     url = "/services"
 
@@ -70,7 +70,7 @@ theme = "airspace-hugo"
   [params.feature]
     enable = true
     title = "We fight for immigrants and families"
-    bgImage = "img/feature-bg.jpg"
+    # bgImage = "images/depaul-loop.jpg"
     content = "<p>A main goal of Southam Law is to ensure that you understand how immigration law affects your unique situation. Unlike other law offices, Southam Law will always take the time to explain the choices you have in order to make sure that you can make the best possible decisions.</p> <p>Southam Law also recognizes that another barrier in this area is cost. Lawyers are expensive, and frequently the final costs are not clear in advance. In virtually all cases, Southam Law charges flat fees, which means the costs for legal services are fixed in advance. This eliminates the shock of surprisingly high bills. Additionally, in many cases, Southam Law also offers different levels of service. You can tell Southam Law a cost level that is comfortable for you, and Southam Law will work to tailor a package of legal services that fit your budget.</p>"
     [params.feature.button]
       caption = "View success stories"
@@ -78,7 +78,7 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    bgImage = "img/call-to-action-bg.jpg"
+    bgImage = "images/depaul-loop.jpg"
     title = "We do the things you need to"
     paragraph = "Whatever your situation or needs are we can help you with a range of immigration and family law matters"
     [params.call.button]
@@ -90,6 +90,8 @@ theme = "airspace-hugo"
     title = "Drop us a note"
     subtitle = "Don’t just take our word for it. Check out some of our latest work."
     [params.contact.form]
+      enabled = false
+      note = "If you would like to contact us, fill out the form below and we will respond within a few business days."
       name = "Your name"
       email = "Your email"
       subject = "Your subject"

@@ -4,6 +4,12 @@
 {{ with .Site.Params.contact }}
 <section id="contact-form">
   <div class="container">
+  {{ if .form.enabled }}
+    <div class="row">
+        <div class="col-md-12 col-sm-12">
+        <p>{{ .form.note }}</p>
+        <div class="col-md-12 col-sm-12">
+    </div>
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
@@ -31,6 +37,7 @@
         </div>
       </div>
     </div>
+    {{ end }}
     <div id="contact-box" class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">

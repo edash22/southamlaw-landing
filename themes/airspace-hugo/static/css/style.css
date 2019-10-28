@@ -169,7 +169,7 @@ header .navbar-default {
 }
 
 header .navbar-default .navbar-nav {
-  padding-top: 10px;
+  /* padding-top: 10px; */
 }
 
 header .navbar-default .navbar-nav li a {
@@ -304,6 +304,7 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
   text-align: center;
   color: #fff;
+
 }
 
 #call-to-action:before {
@@ -317,6 +318,7 @@ font header .navbar-default .navbar-nav li a:hover {
   height: 100%;
   background: #1d192c;
   opacity: 0.8;
+  backdrop-filter: blur(3px);
 }
 
 #call-to-action h2 {
@@ -492,7 +494,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #global-header {
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   /* padding-top: 150px;
   padding-bottom: 107px; */
   padding-top: 25px;
@@ -1156,8 +1158,12 @@ px      68    160    252    */
   p {
     font-size: 13px;
   }
+  header {
+    padding-top: 20px;
+    padding-bottom: 5px;
+  }
   header .navbar-default .navbar-toggle {
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 20px;
   }
   #slider {

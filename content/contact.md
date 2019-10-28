@@ -1,5 +1,5 @@
 +++
 title = "Contact"
 id = "contact"
-bgImage = "img/slider-bg.jpg"
+bgImage = "images/depaul-loop-trimmed.jpg"
 +++

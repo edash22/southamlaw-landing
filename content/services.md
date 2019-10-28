@@ -1,5 +1,5 @@
 +++
 title = "Services"
 id = "services"
-bgImage = "img/slider-bg.jpg"
+bgImage = "images/depaul-loop-trimmed.jpg"
 +++
