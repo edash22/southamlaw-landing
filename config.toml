@@ -49,8 +49,8 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "I don't know"
-    subtitle = "Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex."
+    title = "Understand Your Case. Keep Costs Down."
+    subtitle = "Immigration law is frustratingly complex and rapidly changing. Southam Law strives to help you understand what is happening in your case and why. We take the time to sit down with you and explain the law and the facts of your case. At hte same time, Southam Law keeps costs down. We never bill by the hour, and our costs are clear upfront. We also offer levels of service for different budgets."
     bgImage = "images/depaul-loop.jpg"
     btnText = "See the services we offer"
     url = "/services"
@@ -60,7 +60,7 @@ theme = "airspace-hugo"
     image = "images/keith-keith.png"
     title = "About Us"
     italic = "Southam Law is here to help"
-    paragraph = "Keith Southam is the founder and principal of Southam Law. Keith has built a career around helping immigrants. Keith worked as an international student advisor and an ESL teacher before law school. In law school, Keith focused on immigration law, including an internship at the Chicago Immigration Court and a clerkship with a solo practitioner of immigration law. After law school, Keith worked for five years as an associate attorney for a boutique immigration firm in Chicago where he handled a range of immigration law matters, including family-based green cards, non-immigrant work visas, DACA, asylum, deportation defense, and many other areas. The skills as a student advisor and ESL teacher give Keith a unique approach to immigration law. This approach is centered on providing easy-to-understand and accurate information so that every client can make fully-informed decisions"
+    paragraph = "Keith Southam is the founder and principal attorney of Southam Law. Keith has built a career around helping immigrants. Keith worked as an international student advisor and an ESL teacher before law school. In law school, Keith focused on immigration law, including an internship at the Chicago Immigration Court and a clerkship with an immigration law firm. After law school, Keith worked for five years as an attorney in a small immigration firm in Chicago. In 2016, Keith founded Southam Law with the dual goals of helping clients understand their cases and of keeping costs down. Keith knows how important these things are. Keith's grandparents were immigrants, and he was raised by a single mother. This life experience taught Keith compassion for the struggles of immigrants, people who do not speak English well, and working families."
 
   [params.news]
     enable = true
