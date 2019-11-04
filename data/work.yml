@@ -2,20 +2,62 @@ enable: true
 title: Just some of our latest success stories.
 subtitle: Don’t just take our word for it.
 
+colors:
+  - 546599
+  - 6B53A6
+  - 5958B0
+  - 5885B0
+  - 5393A6
+
 # google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
 portfolio:
   - category: Marriage
-    image: ""
-    color: blue
+    image: "images/keith-keith.jpg"
     name: Ellie and Sammie
     description: >
       A complicated marraige-based filling that took years, but finally succeeded
+      <br/> A complicated marraige-based filling that took years, but finally succeeded
+      <br/> A complicated marraige-based filling that took years, but finally succeeded
+      <br/> A complicated marraige-based filling that took years, but finally succeeded
+      <br/> A complicated marraige-based filling that took years, but finally succeeded
+      <br/> A complicated marraige-based filling that took years, but finally succeeded
+
   - category: Asylum
     image: ""
-    color: blue
     name: Jamie
     description: >
       After fleeing their country, they didn't know where to turn to get help.
+
+  - category: Asylum
+    image: ""
+    name: Jamie
+    description: >
+      After fleeing their country, they didn't know where to turn to get help.
+
+  - category: Asylum
+    image: ""
+    name: Jamie
+    description: >
+      After fleeing their country, they didn't know where to turn to get help.
+
+  - category: Asylum
+    image: ""
+    name: Jamie
+    description: >
+      After fleeing their country, they didn't know where to turn to get help.
+
+  - category: Asylum
+    image: ""
+    name: Jamie
+    description: >
+      After fleeing their country, they didn't know where to turn to get help.
+
+  - category: Asylum
+    image: ""
+    name: Jamie
+    description: >
+      After fleeing their country, they didn't know where to turn to get help.
+
 
 
 
