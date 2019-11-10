@@ -28,22 +28,16 @@
               {{ end }}
             </ul>
           </div>
-          <div class="portfolio-contant">
-            <ul id="portfolio-contant-active">
-              <div class="row">
+            <div class="portfolio-contant">
+              <div id="portfolio-contant-active">
                 {{ range $index, $element := .Site.Data.services.content }}
-                <li class="mix {{ $element.category }}" style = "width: 250px; height: 250px;">
-                  <div class="col-sm-6 col-md-3">
-                      <div class="services-item"  style = "width: 250px; height: 250px;">
-                        <ion-icon name="{{ .icon }}" size="large"></ion-icon>
-                        <h4>{{ .name }}</h4>
-                        <p>{{ .text }}</p>
-                      </div>
+                  <div class="col-sm-6 col-md-3 services-item mix {{ $element.category }}">
+                    <ion-icon name="{{ .icon }}" size="large"></ion-icon>
+                    <h4>{{ .name }}</h4>
+                    <p>{{ .text }}</p>
                   </div>
-                </li>
-              {{ end }}
+                {{ end }}
               </div>
-            </ul>
           </div>
         </div>
       </div>

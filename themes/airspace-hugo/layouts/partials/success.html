@@ -19,7 +19,7 @@
                 </ul>
               </div>
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
+                <div id="portfolio-contant-active">
                   {{ range $index, $element := .Site.Data.work.portfolio }}
                   {{ $summary := split $element.description " " }}
                   {{ $summaryLen := len $summary }}
@@ -27,7 +27,7 @@
 
                   {{ $colorsLen := len $.Site.Data.work.colors }}
 
-                    <li class="mix {{ $element.category }}">
+                    <div class="col-sm-6 col-md-3 success-item mix {{ $element.category }}">
                       <a class="venobox"
                       data-vbtype="inline"
                       title="{{ $element.name }}"
@@ -53,9 +53,9 @@
                           </div>
                         </div>
                       </a>
-                  </li>
+                  </div>
                   {{ end }}
-                </ul>
+                </div>
               </div>
             </div>
           </div>
