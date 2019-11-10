@@ -1,10 +1,11 @@
 +++
-title = "Success Story: Valeria"
+title = "Valeria"
+pretitle = "success story: "
 date = "2018-06-14T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
-
+success_category = "Student visas"
 author = "Keith"
 +++
 Valeria came to the United States with a tourist visa to improve her English and see the United States. After her arrival, she decided to stay and enroll in English school with the hope of going to graduate school. She contacted Keith Southam at Southam Law to help with a change to student status.

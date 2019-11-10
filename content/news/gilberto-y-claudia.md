@@ -1,10 +1,12 @@
 +++
-title = "Historia de éxito: asilo para Gilberto y Claudia"
+title = "Asilo para Gilberto y Claudia"
+pretitle = "historia de éxito: "
 date = "2019-03-25T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
 image = "img/blog/blog-post-4.jpg"
+success_category = "asylum"
 author = "Keith"
 +++
 Gilberto - como todos de su generación - creció en una Venezuela estable. Las cosas empezaron a cambiar cuando Hugo Chávez llegó al poder y empeoraron cuando Nicholas Maduro asumió los poderes de un dictador. Gilberto vio a su país desmoronarse, y luchó por hacer una vida segura y feliz para él y su familia. Comenzó a participar con un alcalde del partido de la oposición. Asistió a manifestaciones. Para 2017, las cosas llegaron a un punto de quiebre.

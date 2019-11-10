@@ -1,10 +1,11 @@
 +++
-title = "Success Story: Margarita"
+title = "Margarita"
+pretitle = "success story: "
 date = "2018-12-04T00:00:00"
 description = "This is meta description for blog page"
 tags = ["ipsum"]
 categories = ["lorem"]
-
+success_category = "families"
 author = "Keith"
 +++
 

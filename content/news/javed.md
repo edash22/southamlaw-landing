@@ -1,10 +1,11 @@
 +++
-title = "Latest Success Story: Laila's father, Javed"
+title = "Laila's father, Javed"
+pretitle = "latest success story: "
 date = "2017-10-16T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
-
+success_category = "families"
 author = "Keith"
 +++
 

@@ -1103,6 +1103,10 @@ px      68    160    252    344    436    528    620    712    */
   .venogroup .block .portfolio-menu {
     padding-left: 0px;
   }
+  .venogroup .block .portfolio-menu ul li {
+    display: inline-block;
+    padding: 0px 10px;
+  }
   .venogroup .block .portfolio-contant .success-item a .img-heading {
     padding: 5px 0 5px 13px;
   }
