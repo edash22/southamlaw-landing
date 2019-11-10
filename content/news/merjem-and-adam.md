@@ -1,10 +1,11 @@
 +++
-title = "Success Story: Merjem and Adam"
+title = "Merjem and Adam"
+pretitle = "success story: "
 date = "2018-08-07T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
-
+success_category = "marriages"
 author = "Keith"
 +++
 Merjem came to the US for graduate study at a major university. At school, she met Adam, a fellow student in her department. The two started spending more and more time together, and realized that they were a couple in love. They started hanging out with each other's friends and family. Adam even traveled to Merjem's home country to meet her family. Adam eventually accepted a job in Chicago, and the two had to live separately for a while. When Merjem finished her coursework and began to focus on her dissertation, she moved to Chicago to be with Adam. They decided to get married and to apply for a green card for Merjem. Their friend recommended Keith at Southam Law for this process.

@@ -1,9 +1,10 @@
 +++
-title = "Success Story: Claudia and Marco"
+title = "success story: Claudia and Marco"
 date = "2018-01-07T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
+success_category = "marriages"
 
 author = "Keith"
 +++

@@ -17,7 +17,7 @@
 					<article class="blog-post">
 						{{ with .Params.image }}
 						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
-						<a class="post-title" href="{{ .Permalink }}">{{ .Title }}</a>
+						<a class="post-title" href="{{ .Permalink }}">{{ if .Params.pretitle }}{{ .Params.pretitle }}{{ end }}{{ .Title }}</a>
 						{{ if not .Params.image }}
 						<p>
 							{{ .Summary }}

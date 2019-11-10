@@ -1,10 +1,11 @@
 +++
-title = "Success Story: Marisol, Johnny, and Benjie"
+title = "Marisol, Johnny, and Benjie"
+pretitle = "success story: "
 date = "2017-12-16T00:00:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["success story"]
 categories = ["lorem"]
-
+success_category = "marriages"
 author = "Keith"
 +++
 Marisol and her son Benjie came to the US over fifteen years ago and have been fighting to stay in the country for almost as long. A few years after she arrived in the US, Marisol met Johnny in an online chat room (this was before the time of Match.com and long before Tinder). Marisol and Johnny went on a date not long after, and they clicked. As they spent more and more time together, Marisol and Johnny fell in love, and they decided to get married. To save money, they moved in with Marisol’s sister and brother-in-law. Johnny worked nights and spent time with his brother, so he wasn’t always at the same home as Marisol. Still, immigration officials concluded the marriage was truthful and gave Marisol a green card. Oddly, immigration let the application for Benjie linger for years. Eventually, Marisol and Johnny applied to renew Marisol’s green card and to check up on the application for Benjie. Immigration then called Benjie for an interview.

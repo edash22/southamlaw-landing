@@ -2,9 +2,8 @@
 title = "Mam and Quiché in Immigration Courts"
 date = "2016-08-11T13:07:31+02:00"
 description = "This is meta description for blog page"
-tags = ["ipsum"]
+tags = ["lorem"]
 categories = ["lorem"]
-
 author = "Keith"
 +++
 

@@ -1,5 +1,11 @@
 {{ partial "global-header.html" . }}
 
+<!-- Grab success stories from the news section -->
+{{ $successes := slice }}
+{{ range (index .Site.Taxonomies.tags "success-story") }}
+  {{ $successes = $successes | append .Page }}
+{{ end }}
+
 <!-- Portfolio Start -->
 <section id="portfolio-work" class="venogroup">
     <div class="container">
@@ -9,42 +15,44 @@
               <div class="portfolio-menu">
                 <ul>
                   {{ $categories := slice }}
-                  {{ range .Site.Data.work.portfolio }}
-                    {{ $categories = $categories | append .category }}
+                  {{ range $successes }}
+                    {{ if .Params.success_category }}
+                      {{ $categories = $categories | append (lower .Params.success_category ) }}
+                    {{ else }}
+                      {{ $categories = $categories | append "other" }}
+                    {{ end }}
                   {{ end }}
                     <li class="filter" data-filter="all">Everything</li>
                   {{ range ( $categories | uniq ) }}
-                    <li class="filter" data-filter=".{{ . }}">{{ . }}</li>
+                    <li class="filter" data-filter=".{{ replace . " " "-" }}">{{ . }}</li>
                   {{ end }}
                 </ul>
               </div>
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
-                  {{ range $index, $element := .Site.Data.work.portfolio }}
-                  {{ $summary := split $element.description " " }}
+                <div id="portfolio-contant-active">
+                  {{ range $index, $element := $successes }}
+                  {{ $summary := split $element.Content " " }}
                   {{ $summaryLen := len $summary }}
                   {{ $summary := first 20 $summary }}
 
+                  {{ $category := "other" }}
+                  {{ if $element.Params.success_category }}
+                    {{ $category = replace (lower $element.Params.success_category ) " " "-" }}
+                  {{ end }}
+
                   {{ $colorsLen := len $.Site.Data.work.colors }}
 
-                    <li class="mix {{ $element.category }}">
+                    <div class="col-sm-6 col-md-3 success-item mix {{ $category }}">
                       <a class="venobox"
                       data-vbtype="inline"
-                      title="{{ $element.name }}"
+                      title="{{ $element.Title }}"
                       href="#inline-content-{{ $index }}"
                       data-gall="success"
                       style="background-color: #{{ index $.Site.Data.work.colors (mod $index $colorsLen) }}">
                         <div class="story-block">
-                          <h2>{{ $element.name }}</h2>
+                          <h2>{{ $element.Title }}</h2>
                           <p>{{ delimit ($summary) " " }} {{ if gt $summaryLen 20 }}...{{ end }}</p>
-                          <!-- <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ $element.image }}" /> -->
-                        </div>
-                        <div id="inline-content-{{ $index }}" style="display:none;">
-                          <div style="background:#fff; width:100%; height:100%; float:left; padding:10px;">
-                          <h1>{{ $element.name }}</h1>
-                          <p>{{ $element.description | safeHTML }}</p>
-                          <p><i>The names in this story were changed for privacy purposes.</i></p>
-                          </div>
+                          {{/* <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ $element.image }}" /> */}}
                         </div>
                         <div class="overly">
                           <div class="position-center">
@@ -53,9 +61,20 @@
                           </div>
                         </div>
                       </a>
-                  </li>
+                      <div id="inline-content-{{ $index }}" style="display:none;">
+                        <div style="background:#fff; width:100%; height:100%; float:left; padding:10px;">
+                        <h1>{{ $element.Title }}</h1>
+                        <p class="italic">By
+                            <span class="bold">{{ $element.Params.author }}</span> on
+                            <span class="bold">{{ $element.Site.Params.dateFormat | default "Jan 2, 2006" | $element.Date.Format }}</span>
+                            <a href = "{{ $element.Permalink }}">original post</a></p>
+                        <p>{{ $element.Content | safeHTML }}</p>
+                        <p><i>The names in this story were changed for privacy purposes.</i></p>
+                        </div>
+                      </div>
+                  </div>
                   {{ end }}
-                </ul>
+                </div>
               </div>
             </div>
           </div>
