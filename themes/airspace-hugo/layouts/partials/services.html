@@ -2,7 +2,7 @@
 
 {{ if .Site.Data.services.enable }}
 <!-- services Start -->
-<section id="services">
+<section id="services" class="venogroup">
   <div class="container">
 
     <!-- Intro -->
@@ -13,17 +13,40 @@
       </div>
     </div>
 
-    <!-- Content -->
     <div class="row">
-      {{ range .Site.Data.services.content }}
-      <div class="col-sm-6 col-md-3">
-        <div class="services-item">
-          <i class="{{ .icon }}"></i>
-          <h4>{{ .name }}</h4>
-          <p>{{ .text }}</p>
+      <div class="col-md-12">
+        <div class="block">
+          <div class="portfolio-menu">
+            <ul>
+              {{ $categories := slice }}
+              {{ range .Site.Data.services.content }}
+                {{ $categories = $categories | append .category }}
+              {{ end }}
+                <li class="filter" data-filter="all">Everyone</li>
+              {{ range ( $categories | uniq ) }}
+                <li class="filter" data-filter=".{{ . }}">{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+          <div class="portfolio-contant">
+            <ul id="portfolio-contant-active">
+              <div class="row">
+                {{ range $index, $element := .Site.Data.services.content }}
+                <li class="mix {{ $element.category }}" style = "width: 250px; height: 250px;">
+                  <div class="col-sm-6 col-md-3">
+                      <div class="services-item"  style = "width: 250px; height: 250px;">
+                        <ion-icon name="{{ .icon }}" size="large"></ion-icon>
+                        <h4>{{ .name }}</h4>
+                        <p>{{ .text }}</p>
+                      </div>
+                  </div>
+                </li>
+              {{ end }}
+              </div>
+            </ul>
+          </div>
         </div>
       </div>
-      {{ end }}
     </div>
   </div>
 </section>

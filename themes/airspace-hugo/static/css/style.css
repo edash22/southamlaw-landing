@@ -545,23 +545,23 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	portfolio-work Start
 --*/
-#portfolio-work {
+.venogroup {
   overflow: hidden;
   padding: 80px 0;
 }
 
-#portfolio-work .block .portfolio-menu {
+.venogroup .block .portfolio-menu {
   padding-bottom: 30px;
   text-align: center;
 }
 
-#portfolio-work .block .portfolio-menu ul {
+.venogroup .block .portfolio-menu ul {
   border: 1px solid #999999;
   display: inline-block;
   margin-bottom: 40px;
 }
 
-#portfolio-work .block .portfolio-menu ul li {
+.venogroup .block .portfolio-menu ul li {
   display: inline-block;
   padding: 0px 25px;
   cursor: pointer;
@@ -573,12 +573,12 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 
-#portfolio-work .block .portfolio-menu ul .active {
+.venogroup .block .portfolio-menu ul .active {
   color: #655E7A;
   position: relative;
 }
 
-#portfolio-work .block .portfolio-menu ul .active:before {
+.venogroup .block .portfolio-menu ul .active:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -598,7 +598,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 
-#portfolio-work .block .portfolio-menu ul li:hover:before {
+.venogroup .block .portfolio-menu ul li:hover:before {
   content: "\f0d7";
   position: absolute;
   font-family: 'FontAwesome';
@@ -618,7 +618,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 
-#portfolio-work .block .portfolio-contant ul li {
+.venogroup .block .portfolio-contant ul li {
   float: left;
   width: 32.22%;
   overflow: hidden;
@@ -626,11 +626,11 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 
-#portfolio-work .block .portfolio-contant ul li:hover .overly {
+.venogroup .block .portfolio-contant ul li:hover .overly {
   opacity: 1;
 }
 
-#portfolio-work .block .portfolio-contant ul li:hover .position-center {
+.venogroup .block .portfolio-contant ul li:hover .position-center {
   position: absolute;
   top: 50%;
   -webkit-transform: translate(0%, -50%);
@@ -639,33 +639,33 @@ font header .navbar-default .navbar-nav li a:hover {
   transform: translate(0%, -50%);
 }
 
-#portfolio-work .block .portfolio-contant ul li a {
+.venogroup .block .portfolio-contant ul li a {
   display: block;
   color: #fff;
 }
 
-#portfolio-work .block .portfolio-contant ul li a h2 {
+.venogroup .block .portfolio-contant ul li a h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
 
-#portfolio-work .block .portfolio-contant ul li a p {
+.venogroup .block .portfolio-contant ul li a p {
   font-size: 15px;
 }
 
-#portfolio-work .block .portfolio-contant ul li a span {
+.venogroup .block .portfolio-contant ul li a span {
   font-style: italic;
   font-size: 13px;
   color: #655E7A;
 }
 
-#portfolio-work .block .portfolio-contant ul img {
+.venogroup .block .portfolio-contant ul img {
   width: 100%;
   height: auto;
 }
 
-#portfolio-work .block .portfolio-contant .overly {
+.venogroup .block .portfolio-contant .overly {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -679,12 +679,12 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 
-#portfolio-work .block .portfolio-contant .story-block {
+.venogroup .block .portfolio-contant .story-block {
   position: absolute;
   margin: 10%
 }
 
-#portfolio-work .block .portfolio-contant .position-center {
+.venogroup .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
   left: 10%;
@@ -697,7 +697,7 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .5s all;
 }
 
-#portfolio-work .block .mix {
+.venogroup .block .mix {
   display: none;
 }
 
@@ -1079,30 +1079,30 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	portfolio Start
 --*/
-  #portfolio-work .block .portfolio-manu {
+  .venogroup .block .portfolio-manu {
     padding-left: 0px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading {
+  .venogroup .block .portfolio-contant ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
+  .venogroup .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading p {
+  .venogroup .block .portfolio-contant ul li a .img-heading p {
     font-size: 11px;
     line-height: 20px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay {
+  .venogroup .block .portfolio-contant ul li a .overlay {
     padding-left: 15px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
+  .venogroup .block .portfolio-contant ul li a .overlay h2 {
     padding-top: 30px;
     padding-bottom: 15px;
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay p {
+  .venogroup .block .portfolio-contant ul li a .overlay p {
     font-size: 11px;
     line-height: 20px;
     padding-top: 15px;
@@ -1272,37 +1272,37 @@ px      68    160    252    */
   /*--
 	portfolio Start
 --*/
-  #portfolio-work .block .portfolio-manu {
+  .venogroup .block .portfolio-manu {
     padding-left: 0px;
     text-align: center;
   }
-  #portfolio-work .block .portfolio-manu ul li {
+  .venogroup .block .portfolio-manu ul li {
     padding: 0 8px;
   }
-  #portfolio-work .block .portfolio-contant ul li {
+  .venogroup .block .portfolio-contant ul li {
     width: 100%;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading {
+  .venogroup .block .portfolio-contant ul li a .img-heading {
     padding: 5px 0 5px 13px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading h2 {
+  .venogroup .block .portfolio-contant ul li a .img-heading h2 {
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .img-heading p {
+  .venogroup .block .portfolio-contant ul li a .img-heading p {
     font-size: 11px;
     line-height: 20px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay {
+  .venogroup .block .portfolio-contant ul li a .overlay {
     padding-left: 15px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay h2 {
+  .venogroup .block .portfolio-contant ul li a .overlay h2 {
     padding-top: 65px;
     padding-bottom: 15px;
     font-size: 20px;
     line-height: 25px;
   }
-  #portfolio-work .block .portfolio-contant ul li a .overlay p {
+  .venogroup .block .portfolio-contant ul li a .overlay p {
     font-size: 11px;
     line-height: 20px;
     padding-top: 15px;

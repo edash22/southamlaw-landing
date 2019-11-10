@@ -4,12 +4,98 @@ subtitle: >
   Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex.
 content:
 
-  - icon: ion-heart
-    name: Marriage-based
+  - category: Individuals
+    icon: heart
+    name: Marriages
     text: >
       Do you have a US-based sugar-person? Marry them and get a Green Card!
 
-  - icon: ion-sad
-    name: Divorce
+  - category: Individuals
+    icon: play
+    name: Remove conditions
+    text: >
+      Do you have a US-based sugar-person? Marry them and get a Green Card!
+
+  - category: Individuals
+    icon: star
+    name: Citizenship
+    text: >
+      Do you have a US-based sugar-person? Marry them and get a Green Card!
+
+  - category: Individuals
+    icon: medkit
+    name: Asylum
+    text: >
+      Do you have a US-based sugar-person? Marry them and get a Green Card!
+
+  - category: Individuals
+    icon: school
+    name: Student status
+    text: >
+      Do you have a US-based sugar-person? Marry them and get a Green Card!
+
+  - category: Individuals
+    icon: list
+    name: Other matters
+    text: >
+      Southam Law can handle anything!
+
+  - category: Businesses
+    icon: business
+    name: H-1Bs
     text: >
       Marriage not working out? We can help!
+
+  - category: Businesses
+    icon: stats
+    name: TNs
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Businesses
+    icon: cash
+    name: Investor Visa (E-2)
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Businesses
+    icon: cash
+    name: PERM
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Businesses
+    icon: list
+    name: Other matters
+    text: >
+      Southam Law can handle anything!x
+
+  - category: Attorneys
+    icon: people
+    name: Hourly Of-Counsel
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Attorneys
+    icon: folder
+    name: RFE response
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Attorneys
+    icon: folder
+    name: NOID response
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Attorneys
+    icon: document
+    name: Appeals and Motions
+    text: >
+      Marriage not working out? We can help!
+
+  - category: Attorneys
+    icon: list
+    name: Other matters
+    text: >
+      Southam Law can handle anything!
