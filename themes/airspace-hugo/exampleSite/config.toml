@@ -6,7 +6,7 @@ theme = "airspace-hugo"
 # The site's parameters
 [params]
   home = "Home"
-  
+
   [menu]
 
     [[menu.header]]
@@ -78,7 +78,6 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    bgImage = "img/call-to-action-bg.jpg"
     title = "We design delightful digital experiences."
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
     [params.call.button]

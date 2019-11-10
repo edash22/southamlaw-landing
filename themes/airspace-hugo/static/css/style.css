@@ -304,7 +304,9 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
   text-align: center;
   color: #fff;
-
+  opacity: 0.8;
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
 }
 
 #call-to-action:before {
@@ -319,6 +321,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background: #1d192c;
   opacity: 0.8;
   backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
 }
 
 #call-to-action h2 {
