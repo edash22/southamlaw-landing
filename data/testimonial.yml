@@ -1,21 +1,21 @@
 enable: true
 title: Fun Facts About Us
 paragraph: >
-  Keith has a passion for languages and helping immigrants and families. 
+  Keith has a passion for languages and helping immigrants and families.
 
 number:
   enable : true
 numbers:
-  - icon: ion-ios-chatboxes-outline
+  - icon: chatboxes
     counter: 8492
     text: Consultations
-  - icon: ion-ios-glasses-outline
+  - icon: search
     counter: 7893
     text: Forms reviewed
-  - icon: ion-ios-checkmark-outline
+  - icon: checkmark-circle-outline
     counter: 243
     text: Successful cases
-  - icon: ion-coffee
+  - icon: cafe
     counter: 2000
     text: Cups of Coffee
 
