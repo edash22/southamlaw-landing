@@ -47,6 +47,14 @@ theme = "airspace-hugo"
     #   name = "Terms"
     #   url = "#"
 
+  [params.header]
+    bgImage = "images/depaul-loop-trimmed.jpg"
+    bgImage500 = "images/depaul-loop-trimmed-500.jpg"
+    bgImage1000 = "images/depaul-loop-trimmed-1000.jpg"
+    bgImage2000 = "images/depaul-loop-trimmed-2000.jpg"
+    bgImage3000 = "images/depaul-loop-trimmed-3000.jpg"
+    bgImage4000 = "images/depaul-loop-trimmed-4000.jpg"
+
   [params.slider]
     enable = true
     title = "Understand Your Case. Keep Costs Down."
@@ -56,15 +64,9 @@ theme = "airspace-hugo"
     bgImage1000 = "images/depaul-loop-1000.jpg"
     bgImage2000 = "images/depaul-loop-2000.jpg"
     bgImage3000 = "images/depaul-loop-3000.jpg"
+    bgImage4000 = "images/depaul-loop-4000.jpg"
     btnText = "See the services we offer"
     url = "/services"
-
-  [params.wrapper]
-    enable = true
-    image = "images/keith-keith.png"
-    title = "About Us"
-    italic = "Southam Law is here to help"
-    paragraph = "Keith Southam is the founder and principal attorney of Southam Law. Keith has built a career around helping immigrants. Keith worked as an international student advisor and an ESL teacher before law school. In law school, Keith focused on immigration law, including an internship at the Chicago Immigration Court and a clerkship with an immigration law firm. After law school, Keith worked for five years as an attorney in a small immigration firm in Chicago. In 2016, Keith founded Southam Law with the dual goals of helping clients understand their cases and of keeping costs down. Keith knows how important these things are. Keith's grandparents were immigrants, and he was raised by a single mother. This life experience taught Keith compassion for the struggles of immigrants, people who do not speak English well, and working families."
 
   [params.news]
     enable = true
