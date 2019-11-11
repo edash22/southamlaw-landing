@@ -81,4 +81,11 @@ $(document).ready(function () {
 
 	// venobox
 	$('.venobox').venobox();
+
+	// fade in
+	$(window).on('load', function() {
+		window.setTimeout(function() {
+			$('body').removeClass('is-preload');
+		}, 100);
+	});
 });

@@ -1,19 +1,37 @@
 <!-- Wrapper Start -->
+{{ $headless := .Site.GetPage "/wrapper" }}
 <section id="intro">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>{{ .Site.Params.wrapper.title }}</h2>
-            <p>{{ .Site.Params.wrapper.italic }}</p>
+            <h2>{{ $headless.Params.title }}</h2>
+            <p>{{ $headless.Params.italic }}</p>
           </div>
-          <p>{{ .Site.Params.wrapper.paragraph }}</p>
+          <p>{{ $headless.Content }}</p>
         </div>
       </div><!-- .col-md-7 close -->
       <div class="col-md-5 col-sm-12">
-        <div class="block">
-         <img src="{{ with .Site.Params.wrapper.image }} {{ . | absURL }} {{ end }}" alt="Img">
+          <div class="block">
+          <!-- resize the image associated for better loading times -->
+          {{ with $headless.Resources.GetMatch $headless.Params.image }}
+          <!-- at medium, the max width is 417px (on the side of the tesxt)-->
+          {{ $md_full3x := .Resize "1251x" }}
+          {{ $md_full2x := .Resize "834x" }}
+          {{ $md_full1x := .Resize "417x" }}
+          <!-- at small, the max width is 680px (below the text)-->
+          {{ $sm_full3x := .Resize "2040x" }}
+          {{ $sm_full2x := .Resize "1360x" }}
+          {{ $sm_full1x := .Resize "680x" }}
+
+          <picture id="wrapper-image">
+              <source srcset="{{ $md_full3x.Permalink }} 3x, {{ $md_full2x.Permalink }} 2x, {{ $md_full1x.Permalink }} 1x" media="(min-width: 992px)"/>
+              <source srcset="{{ $sm_full3x.Permalink }} 3x, {{ $sm_full2x.Permalink }} 2x, {{ $sm_full1x.Permalink }} 1x" media="(min-width: 768px)"/>
+              <source srcset="{{ $sm_full3x.Permalink }} 3x, {{ $sm_full2x.Permalink }} 2x, {{ $sm_full1x.Permalink }} 1x" />
+              <img srcset="{{ $sm_full1x.Permalink }}" alt="{{ $headless.Params.imagealt }}" title="{{ $headless.Params.imagealt }}"/>
+          </picture>
+          {{ end }}
         </div>
       </div><!-- .col-md-5 close -->
     </div>
