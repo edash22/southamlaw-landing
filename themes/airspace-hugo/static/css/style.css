@@ -726,6 +726,7 @@ body.is-preload #slider.fade-in:before {
   -o-transition: .3s all;
   transition: .3s all;
   text-align: center;
+  margin: 0 15px;
 }
 
 .venogroup .block .portfolio-contant .story-block {
