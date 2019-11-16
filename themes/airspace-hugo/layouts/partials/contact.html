@@ -45,18 +45,16 @@
           <h2>{{ .box.title }}</h2>
           <ul class="address-block">
             <li>
-              <i class="fa fa-map-marker"></i>{{ .box.address }}
+              <div class="address-line"><i class="fa fa-map-marker"></i><div>{{ .box.address }}</div></div>
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>Email <a href = "mailto:{{ .box.email }}">{{ .box.email }}</a>
+              <div class="address-line"><i class="fa fa-envelope-o"></i><div>Email <a href = "mailto:{{ .box.email }}">{{ .box.email }}</a></div></div>
             </li>
             <li>
-              <i class="fa fa-phone"></i>Phone: {{ .box.phone }}
-            </li>
-            <li>
-              <i class="fa"></i>{{ .box.note }}
+              <div class="address-line"><i class="fa fa-phone"></i><div>Phone: {{ .box.phone }}</div></div>
             </li>
           </ul>
+          <div>{{ .box.note }}</div>
           <ul class="social-icons">
           {{ range .social }}
             <li>
