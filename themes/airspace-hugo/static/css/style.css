@@ -883,6 +883,7 @@ body.is-preload #slider.fade-in:before {
 --*/
 .address-block li {
   margin-bottom: 20px;
+  clear: both;
 }
 
 .address-block i {
