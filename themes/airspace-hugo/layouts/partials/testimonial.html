@@ -36,9 +36,16 @@
             {{ range .Site.Data.testimonial.people }}
             <div>
                 <img src="{{.quoteImg | absURL }}" alt="IMG">
-                <p>"{{ .text }}"</p>
+                {{ if .title }}
+                <h4>{{ .title }}</h4>
+                {{ end }}
+                <p>{{ .text }}</p>
                 <div class="user">
+                  {{ if .image}}
                   <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Pepole">
+                  {{ else }}
+                  <ion-icon name="ios-person" size="large"></ion-icon>
+                  {{ end }}
                   <p><span>{{ .name }}</span> {{ .role }}</p>
                 </div>
             </div>

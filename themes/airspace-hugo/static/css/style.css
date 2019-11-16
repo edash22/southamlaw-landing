@@ -883,12 +883,21 @@ body.is-preload #slider.fade-in:before {
 --*/
 .address-block li {
   margin-bottom: 20px;
+  clear: both;
 }
 
-.address-block li i {
+.address-block i {
   margin-right: 15px;
   font-size: 20px;
   width: 20px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.address-line div {
+  float: left;
+  width: 80%;
+  margin-bottom: 20px;
 }
 
 .social-icons {
@@ -912,6 +921,8 @@ body.is-preload #slider.fade-in:before {
 
 .google-map {
   position: relative;
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .google-map #map {

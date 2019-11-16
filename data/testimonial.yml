@@ -23,8 +23,26 @@ peoples:
   enable : true
 people:
   - text: >
-      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+      Keith was the lawyer in charge of changing my status to permanent residence. he guided me and my wife through the whole process making sure we understood all steps and taking the time to explain again if we were not clear about something. he was always professional and took time to prepare us to the interview with immigration. we are very happy with the service provided. again, thank you!
+    title: Exceptional
     quoteImg: img/cotation.png
-    image: img/item-img1.jpg
-    name: Rose Ray
-    role: CEO-Themefisher
+    name: Pedro
+    role: client
+  - text: >
+      Keith is a very attentive and proactive attorney. He was assisting me with a spousal visa application. Despite changes in personal circumstances, he was very understanding and worked through everything in a very timely manner. He's also a great communicator. Highly recommend!
+    title: Excellent
+    quoteImg: img/cotation.png
+    name: Joshua
+    role: client    
+  - text: >
+      Keith has help me so much with the process by far the best you can trust him wither he process he is well knowledgeable and knows what he is doing highly recommends him
+    title: Best lawyer
+    quoteImg: img/cotation.png
+    name: Musa
+    role: client 
+  - text: >
+      Keith helped my company apply for a visa for a remote worker. The situation was nuanced and tricky and he went above and beyond to ensure the outcome was a success. He was very knowledgeable, responsive, and reassuring throughout the application process. Highly recommended.
+    title: Highly recommend
+    quoteImg: img/cotation.png
+    name: Ali
+    role: client 
