@@ -5,7 +5,7 @@ date = "2019-03-25T00:00:00"
 description = "This is meta description for blog page"
 tags = ["success story"]
 categories = ["lorem"]
-image = "img/blog/blog-post-4.jpg"
+# image = "img/blog/blog-post-4.jpg"
 success_category = "asylum"
 author = "Keith"
 +++

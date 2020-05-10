@@ -58,7 +58,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Understand Your Case. Keep Costs Down."
-    subtitle = "Immigration law is frustratingly complex and rapidly changing. Southam Law strives to help you understand what is happening in your case and why. We take the time to sit down with you and explain the law and the facts of your case. At hte same time, Southam Law keeps costs down. We never bill by the hour, and our costs are clear upfront. We also offer levels of service for different budgets."
+    subtitle = "Immigration law is frustratingly complex and rapidly changing. Southam Law LLC strives to help you understand what is happening in your case and why. We take the time to explain the law and the facts of your case in everyday terms. At the same time, Southam Law keeps costs down. We never bill by the hour, and our costs are clear upfront. We also offer levels of service for different budgets."
     bgImage = "images/depaul-loop.jpg"
     bgImage500 = "images/depaul-loop-500.jpg"
     bgImage1000 = "images/depaul-loop-1000.jpg"
@@ -77,7 +77,7 @@ theme = "airspace-hugo"
     enable = true
     title = "We fight for immigrants and families"
     # bgImage = "images/depaul-loop.jpg"
-    content = "<p>A main goal of Southam Law is to ensure that you understand how immigration law affects your unique situation. Unlike other law offices, Southam Law will always take the time to explain the choices you have in order to make sure that you can make the best possible decisions.</p> <p>Southam Law also recognizes that another barrier in this area is cost. Lawyers are expensive, and frequently the final costs are not clear in advance. In virtually all cases, Southam Law charges flat fees, which means the costs for legal services are fixed in advance. This eliminates the shock of surprisingly high bills. Additionally, in many cases, Southam Law also offers different levels of service. You can tell Southam Law a cost level that is comfortable for you, and Southam Law will work to tailor a package of legal services that fit your budget.</p>"
+    content = "A main goal of Southam Law LLC is to ensure that you understand how immigration law affects your unique situation. Unlike other law offices, Southam Law LLC takes the time to explain the choices you have so that you can make informed decisions about your case. Southam Law LLC also recognizes that another barrier is cost. Lawyers are expensive, and frequently the final costs are not clear in advance. In virtually all cases, Southam Law charges flat fees, which means the costs for legal services are fixed in advance. This eliminates the shock of surprisingly high bills. Southam Law LLC also offers different levels of service for many cases."
     [params.feature.button]
       caption = "View success stories"
       url = "/work"
@@ -86,7 +86,7 @@ theme = "airspace-hugo"
     enable = true
     bgImage = "images/depaul-loop.jpg"
     title = "We do the things you need to"
-    paragraph = "Whatever your situation or needs are we can help you with a range of immigration and family law matters"
+    paragraph = "Southam Law LLC can help you with your immigration needs. We offer services for families, students, business, and other attorneys."
     [params.call.button]
       url = "../contact"
       text = "tell us your story"
@@ -105,9 +105,10 @@ theme = "airspace-hugo"
       button = "Send message"
     [params.contact.box]
       title = "Contact information"
-      address = "208 S Jefferson Street Suite 204, Chicago IL 60661"
-      email = "keith@southamlaw.com"
+      address = "350 N Orleans St Ste 9000N Chicago IL 60654"
+      email = "info@southamlaw.com"
       phone = "+1 773 466 4478"
+      fax = "+1 773 409 5058"
       note = "(Please note that office hours are by appointment only)"
     [params.contact.gmaps]
       title = "Southam Law's home in Chicago"
