@@ -311,6 +311,8 @@ body.is-preload #slider.fade-in:before {
   padding-top: 20px;
   margin: 0;
   color: #666;
+  text-align: left;
+
 }
 
 #services .services-item p {
@@ -319,6 +321,7 @@ body.is-preload #slider.fade-in:before {
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
+  text-align: left;
 }
 
 /*--

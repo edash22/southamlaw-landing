@@ -1,101 +1,89 @@
 enable: true
 title: Our Services
 subtitle: >
-  Dedicated to the needs of immigrants and families of all kinds and recognizing that law, especially immigration law, can be frustratingly complex.
+  Dedicated to the needs of immigrants of all kinds: families, students, workers, and more.
 content:
 
   - category: Individuals
     icon: heart
     name: Marriages
     text: >
-      Do you have a US-based sugar-person? Marry them and get a Green Card!
+      We love binational couples! Let us help you understand how to apply for permanent residence based on your marriage to a US citizen or a US permanent resident.
 
   - category: Individuals
     icon: play
     name: Remove conditions
     text: >
-      Do you have a US-based sugar-person? Marry them and get a Green Card!
+      Is your green card valid for only two years? Then you are probably a “conditional resident.” Let us help you remove those conditions so you get a 10-year green card.
 
   - category: Individuals
     icon: star
     name: Citizenship
     text: >
-      Do you have a US-based sugar-person? Marry them and get a Green Card!
+      If you qualify to become a US citizen, you should apply right away! Not only can you vote and get a US passport, but you can also sponsor other family to move to the US to join you as well.
 
   - category: Individuals
     icon: medkit
     name: Asylum
     text: >
-      Do you have a US-based sugar-person? Marry them and get a Green Card!
+      US law allows you to apply for asylum if you are outside of your home country and fear persecution because of your politics, your religion, your sexuality, your tribe, or another similar reason.
 
   - category: Individuals
     icon: school
-    name: Student status
+    name: F-1 status (student status)
     text: >
-      Do you have a US-based sugar-person? Marry them and get a Green Card!
-
-  - category: Individuals
-    icon: list
-    name: Other matters
-    text: >
-      Southam Law can handle anything!
+      Changing to student (F-1) status takes several steps and multiple applications. But we regularly do this, so let us help!
 
   - category: Businesses
     icon: business
-    name: H-1Bs
+    name: H-1B status/visa
     text: >
-      Marriage not working out? We can help!
+      A working visa for processionals is an H-1B. Importantly, immigration officials have a strict definition of who can get an H-1B based on job requirements. We can help you pass through these steps.
 
   - category: Businesses
     icon: stats
-    name: TNs
+    name: TN (NAFTA) status/visa
     text: >
-      Marriage not working out? We can help!
+      Professionals in Canada, Mexico, and the United States have relatively easy freedom of movement in these countries’ labor markets. We can help you apply for TN visas or TN status under these rules.
 
   - category: Businesses
     icon: cash
-    name: Investor Visa (E-2)
+    name: E-2 (investor visa)
     text: >
-      Marriage not working out? We can help!
+      Many countries have treaties with the US to allow investment. If your country of citizenship has a treaty with the US, and if you have funds to invest in a reasonable business in the US, you can get E-2 status. We can help!
 
   - category: Businesses
     icon: cash
-    name: PERM
+    name: PERM/I-140 
     text: >
-      Marriage not working out? We can help!
-
-  - category: Businesses
-    icon: list
-    name: Other matters
-    text: >
-      Southam Law can handle anything!x
+      A US employer can sponsor almost any worker for a green card to come or stay in the US. The trick is navigating the advertising/recruitment process. 
 
   - category: Attorneys
     icon: people
     name: Hourly Of-Counsel
     text: >
-      Marriage not working out? We can help!
-
-  - category: Attorneys
-    icon: folder
-    name: RFE response
-    text: >
-      Marriage not working out? We can help!
-
-  - category: Attorneys
-    icon: folder
-    name: NOID response
-    text: >
-      Marriage not working out? We can help!
+      Keith Southam has over ten years of immigration law experience. If you need one-on-one advice about any immigration issue, we offer hourly of-counsel/consulting help.
 
   - category: Attorneys
     icon: document
     name: Appeals and Motions
     text: >
-      Marriage not working out? We can help!
+      Immigration is notorious for mistakes and bad decisions. If you think they overlooked somethings or just plain made a mistaken, we can help you appeal.
+      
+  - category: Attorneys
+    icon: folder
+    name: RFE response
+    text: >
+      Some requests from immigration are easy, but some are monsters. We are happy to help you put together a strong and timely response to your RFE.
 
   - category: Attorneys
+    icon: folder
+    name: NOID response
+    text: >
+      Under the current administration, denials are up. If you got a notice that immigration intends to deny an application, act fast! You typically have only thirty days to respond.
+      
+  - category: Other
     icon: list
     name: Other matters
     text: >
-      Southam Law can handle anything!
+      Don’t see what you need help with? Southam Law LLC can help with many other immigration concerns. Don’t hesitate to ask!
