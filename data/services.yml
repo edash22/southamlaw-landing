@@ -23,12 +23,6 @@ content:
       If you qualify to become a US citizen, you should apply right away! Not only can you vote and get a US passport, but you can also sponsor other family to move to the US to join you as well.
 
   - category: Individuals
-    icon: medkit
-    name: Asylum
-    text: >
-      US law allows you to apply for asylum if you are outside of your home country and fear persecution because of your politics, your religion, your sexuality, your tribe, or another similar reason.
-
-  - category: Individuals
     icon: school
     name: F-1 status (student status)
     text: >
@@ -82,8 +76,4 @@ content:
     text: >
       Under the current administration, denials are up. If you got a notice that immigration intends to deny an application, act fast! You typically have only thirty days to respond.
       
-  - category: Other
-    icon: list
-    name: Other matters
-    text: >
-      Don’t see what you need help with? Southam Law LLC can help with many other immigration concerns. Don’t hesitate to ask!
+
