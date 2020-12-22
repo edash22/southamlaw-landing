@@ -26,7 +26,7 @@ content:
     icon: school
     name: F-1 status (student status)
     text: >
-      Changing to student (F-1) status takes several steps and multiple applications. But we regularly do this, so let us help!
+      Changing to student (F-1) status takes several steps and multiple applications. <br /> But we regularly do this, so let us help
 
   - category: Businesses
     icon: business
