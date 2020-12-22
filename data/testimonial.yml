@@ -7,16 +7,16 @@ number:
   enable : true
 numbers:
   - icon: chatboxes
-    counter: 404
+    counter: 442
     text: Consultations
   - icon: checkmark-circle-outline
-    counter: 280
+    counter: 294
     text: Successful cases
   - icon: search
-    counter: 726
+    counter: 744
     text: Forms reviewed
   - icon: cafe
-    counter: 3035
+    counter: 3315
     text: Cups of Coffee
 
 peoples:
