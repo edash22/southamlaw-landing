@@ -6,11 +6,11 @@
 <body>
 
 	{{ partial "header.html" . }}
-	
+
 	{{ if isset .Params "id" }}
 		{{ partial .Params.id . }}
 	{{ else }}
-		<main>{{ .Content }}</main>
+		{{ .Content }}
 	{{ end }}
 
 	{{ if and (isset .Site.Params "call") (.Site.Params.call.enable) }}
@@ -19,6 +19,6 @@
 
 	{{ partial "footer.html" . }}
 
-	
+
 </body>
 </html>

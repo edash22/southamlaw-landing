@@ -1,8 +1,8 @@
 +++
-title = "Terms and conditions"
+title = "Termos and conditionos"
 bgImage = "images/depaul-loop-trimmed.jpg"
 id = "terms"
-lang = "en"
+lang = "es"
 +++
 
 ## Why have these Terms and Conditions?

@@ -1502,3 +1502,15 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
+
+
+/* terms */
+#terms h2 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+#terms p {
+  margin-bottom: 20px;
+  color: #8d8f92;
+}
