@@ -1,5 +1,5 @@
 +++
-title = "Termos and conditionos"
+title = "Términos y Condiciones"
 bgImage = "images/depaul-loop-trimmed.jpg"
 id = "terms"
 lang = "es"
