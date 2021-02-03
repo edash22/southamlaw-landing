@@ -15,7 +15,7 @@ The Agreement is a contract between You and Southam Law LLC. In this You are giv
 
 ## How long will the Agreement last?
 
-The Agreement enters into force when You sign it and return it to Southam Law LLC. The Agreement will continue to have effect and Southam Law LLC will continue to provide services until immigration officials approve Your application or case, until immigration officials deny Your application or case, until one year after the first immigration interview in Your case, until two years after Your application has been submitted to immigration officials, or until either You or the Law Office suspends services, whichever is earliest.
+The Agreement enters into force when You sign it and return it to Southam Law LLC. The Agreement will continue to have effect and Southam Law LLC will continue to provide services until immigration officials approve Your application or case, until immigration officials deny Your application or case, until one year after the first immigration interview in Your case, until two years after Your application has been submitted to immigration officials, or until either You or Southam Law LLC suspends services, whichever is earliest.
 
 ## How should You communicate with Southam Law LLC?
 
@@ -29,9 +29,9 @@ In the Agreement, You agree to accept electronic communication from Southam Law 
 
 You have the right to suspend services at any time. You have the right to obtain an electronic copy of your file from Southam Law LLC for free or a paper copy for a small fee. You have the right to communicate freely and confidentially with Southam Law LLC. All information You share with Southam Law LLC is private and confidential.
 
-## What rights does the Law Office have?
+## What rights does the Southam Law LLC?
 
-The Law Office has the right to suspend services if You do not pay the fees for services. The Law Office also has the right to suspend services if You do not provide information or documents, if the Law Office learns You have provided false information or documents, or if You hide information or do not cooperate with the Law Office’s requests. The Law Office also has the right to suspend services if You do not update contact information, if You do not respond to communications from the Law Office in a reasonable time or for any other reason permitted by the Illinois Rules of Professional Conduct. The Law Office also has the right to suspend services if Southam Law LLC closes or merges with another law office.
+Southam Law LLC has the right to suspend services if You do not pay the fees for services. Southam Law LLC also has the right to suspend services if You do not provide information or documents, if the Southam Law LLC learns You have provided false information or documents, or if You hide information or do not cooperate with Southam Law LLC’s requests. Southam Law LLC also has the right to suspend services if You do not update contact information, if You do not respond to communications from Southam Law LLC in a reasonable time or for any other reason permitted by the Illinois Rules of Professional Conduct. Southam Law LLC also has the right to suspend services if Southam Law LLC closes or merges with another law office.
 
 ## What happens if You or Southam Law LLC suspends services?
 
