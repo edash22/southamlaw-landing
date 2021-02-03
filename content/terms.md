@@ -7,7 +7,7 @@ lang = "en"
 
 ## Why have these Terms and Conditions?
 
-These Terms and Conditions accompany a Legal Services Agreement (that is, a contract). If You asked Southam Law LLC to help you with a specific application or case, Southam Law LLC will ask You to sign a Legal Services Agreement. These Terms and Conditions give more details rules to the Legal Services Agreement between You and the Southam Law LLC. In the Legal Services Agreement and in these Terms and Conditions, the word "You" means the person who signed the Legal Services Agreement and the word "Agreement" means the Legal Services Agreement.
+These Terms and Conditions accompany a Legal Services Agreement (that is, a contract). If You asked Southam Law LLC to help you with a specific application or case, Southam Law LLC will ask You to sign a Legal Services Agreement. These Terms and Conditions give more detailed rules to the Legal Services Agreement between You and Southam Law LLC. In the Legal Services Agreement and in these Terms and Conditions, the word "You" means the person who signed the Legal Services Agreement and the word "Agreement" means the Legal Services Agreement.
 
 ## What is the reason for the Agreement?
 
@@ -15,7 +15,7 @@ The Agreement is a contract between You and Southam Law LLC. In this You are giv
 
 ## How long will the Agreement last?
 
-The Agreement enters into force when You sign it and return it to the Southam Law LLC. The Agreement will continue to have effect and the Southam Law LLC will continue to provide services until immigration officials approve Your application or case, until immigration officials deny Your application or case, until one year after the first immigration interview in Your case, until two years after Your application has been submitted to immigration officials, or until either You or the Law Office suspends services, whichever is earliest.
+The Agreement enters into force when You sign it and return it to Southam Law LLC. The Agreement will continue to have effect and Southam Law LLC will continue to provide services until immigration officials approve Your application or case, until immigration officials deny Your application or case, until one year after the first immigration interview in Your case, until two years after Your application has been submitted to immigration officials, or until either You or the Law Office suspends services, whichever is earliest.
 
 ## How should You communicate with Southam Law LLC?
 
@@ -23,7 +23,7 @@ This is a business relationship between You and Southam Law LLC that will last f
 
 ## What are other important points about communication?
 
-In the Agreement, You agree to accept electronic communication from Southam Law LLC in the form of emails, texts, online portals, and/or shared cloud-based folders. Southam Law LLC’s email and cloud storage provider encrypts data for transmission and further requires two-factor authentication for login purposes. You are encouraged to use services that provide similar encryption. These steps help to ensure the privacy of communications between You and Southam Law LLC. You also agree to allow Southam Law LLC to sign you up for electronic distribution lists, such as MailChimp or a similar service.
+In the Agreement, You agree to accept electronic communication from Southam Law LLC in the form of emails, texts, online portals, and/or shared cloud-based folders. Southam Law LLC’s email and cloud storage provider encrypts data for transmission and further requires two-factor authentication for login purposes. You are encouraged to use services that provide similar encryption. These steps help to ensure the privacy of communications between You and Southam Law LLC. You also agree to allow Southam Law LLC to sign You up for electronic distribution lists, such as MailChimp or a similar service.
 
 ## What rights do You have?
 
@@ -31,7 +31,7 @@ You have the right to suspend services at any time. You have the right to obtain
 
 ## What rights does the Law Office have?
 
-The Law Office has the right to suspend services if You do not pay the fees for services. The Law Office also has the right to suspend services if You do not provide information or documents, if the Law Office learns You have provided false information or documents, or if You hide information or do not cooperate with the Law Office’s requests. The Law Office also has the right to suspend services if You do not update contact information, if You do not respond to communications from the Law Office in a reasonable time or for any other, reason permitted by the Illinois Rules of Professional Conduct. The Law Office also has the right to suspend services if Southam Law LLC closes or merges with another law office.
+The Law Office has the right to suspend services if You do not pay the fees for services. The Law Office also has the right to suspend services if You do not provide information or documents, if the Law Office learns You have provided false information or documents, or if You hide information or do not cooperate with the Law Office’s requests. The Law Office also has the right to suspend services if You do not update contact information, if You do not respond to communications from the Law Office in a reasonable time or for any other reason permitted by the Illinois Rules of Professional Conduct. The Law Office also has the right to suspend services if Southam Law LLC closes or merges with another law office.
 
 ## What happens if You or Southam Law LLC suspends services?
 
@@ -43,7 +43,7 @@ Southam Law LLC offers no guarantees. Attorneys, staff members, and contractors 
 
 ## What happens if there is a schedule conflict?
 
-Southam Law LLC will make every effort to avoid schedule conflicts, but sometimes schedule conflicts are unavoidable. If immigration schedules a key event at a time when an attorney from Southam Law LLC cannot attend, Southam Law LLC will seek guidance from You. You could chose to reschedule the event, to attend the event alone, or to attend the event with a substitute attorney. If You attend the event alone or if You select a substitute attorney, Southam Law LLC will refund or discount an appropriate sum (based on completed/outstanding work) to You. If the Southam Law LLC selects a substitute attorney, Southam Law LLC will pay that attorney directly. 
+Southam Law LLC will make every effort to avoid schedule conflicts, but sometimes schedule conflicts are unavoidable. If immigration schedules a key event at a time when an attorney from Southam Law LLC cannot attend, Southam Law LLC will seek guidance from You. You could chose to reschedule the event, to attend the event alone, or to attend the event with a substitute attorney. If You attend the event alone or if You select a substitute attorney, Southam Law LLC will refund or discount an appropriate sum (based on completed/outstanding work) to You. If Southam Law LLC selects a substitute attorney, Southam Law LLC will pay that attorney directly. 
 
 ## What happens if spouses, family members, or employers/employees disagree?
 
@@ -55,8 +55,8 @@ Your Agreement and these Terms and Conditions are the entire agreement between Y
 
 ## What happens if Your payment is rejected or You do not pay?
 
-If a check that You submit is returned for insufficient funds (“bounced”), You agree to pay any fees that result. If You do not pay fees as described in Your Agreement, Southam Law LLC reserves the right to submit Your account to a collections agency and or to begin a legal collections process; You agree to pay any collection fees, legal fees, or court costs that result.
+If a check that You submit is returned for insufficient funds (“bounced”), You agree to pay any fees that result. If You do not pay fees as described in Your Agreement, Southam Law LLC reserves the right to submit Your account to a collections agency and/or to begin a legal collections process; You agree to pay any collection fees, legal fees, or court costs that result.
 
 ## What if You disagree with this version of the Terms and Conditions?
 
-These Terms and Conditions are effective as of January 1, 2021. If You feel that this version of the Terms and Conditions conflicts with Your Agreement as it was signed, Southam Law LLC is happy to provide prior versions of Terms and Conditions on request.
+These Terms and Conditions are effective as of January 1, 2021 (with corrections to typographical errors made on February 3, 2021). If You feel that this version of the Terms and Conditions conflicts with Your Agreement as it was signed, Southam Law LLC is happy to provide prior versions of Terms and Conditions on request.
