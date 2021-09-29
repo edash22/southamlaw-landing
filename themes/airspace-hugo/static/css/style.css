@@ -119,7 +119,7 @@ a:active {
 .btn-main,
 .btn-transparent,
 .btn-small {
-  background: #655E7A;
+  background: #E52426;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -134,7 +134,7 @@ a:active {
 .btn-main:hover,
 .btn-transparent:hover,
 .btn-small:hover {
-  background: #353240;
+  background: #F2581B;
   color: #fff;
 }
 .btn-solid-border {
@@ -143,8 +143,8 @@ a:active {
   color: #fff;
 }
 .btn-solid-border:hover {
-  border: 1px solid #655E7A;
-  background: #655E7A;
+  border: 1px solid #F2581B;
+  background: #F2581B;
 }
 /*--
 	Header Start
@@ -155,10 +155,10 @@ header {
 }
 
 #header-logo {
-  width: 75%;
+  width: 50%;
   margin: auto;
   display: block;
-  padding-bottom: 25px;
+  padding-bottom: 10px;
 }
 
 header .navbar {
@@ -184,7 +184,7 @@ header .navbar-default .navbar-nav {
 header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 10px 26px;
-  font-size: 24px;
+  font-size: 30px;
 }
 
 font header .navbar-default .navbar-nav li a:hover {
@@ -208,7 +208,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 body.is-preload #slider.fade-in:before {
-    background: linear-gradient(to left, #8b86a3, #322e40);
+    background: linear-gradient(to left, #330809, #661012);
     opacity: 1;
 }
 
@@ -233,7 +233,7 @@ body.is-preload #slider.fade-in:before {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #330809, #661012);
   opacity: 0.85;
 }
 
@@ -349,7 +349,7 @@ body.is-preload #slider.fade-in:before {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: #661012;
   opacity: 0.8;
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
@@ -547,7 +547,7 @@ body.is-preload #slider.fade-in:before {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left, #330809, #661012 70%);
   opacity: 0.85;
 }
 
@@ -608,7 +608,7 @@ body.is-preload #slider.fade-in:before {
 .venogroup .block .portfolio-menu ul .active {
   color: #FFFFFF;
   position: relative;
-  background-color: #546599;
+  background-color: #E52426;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -619,7 +619,7 @@ body.is-preload #slider.fade-in:before {
 .venogroup .block .portfolio-menu ul li:hover {
   color: #FFFFFF;
   position: relative;
-  background-color: #5393A6;
+  background-color: #F2581B;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -629,7 +629,7 @@ body.is-preload #slider.fade-in:before {
 
 .venogroup .block .portfolio-menu ul .active:before {
   content: "\f0d7";
-  color: #546599;
+  color: #E52426;
   position: absolute;
   font-family: 'FontAwesome';
   bottom: -18px;
@@ -650,7 +650,7 @@ body.is-preload #slider.fade-in:before {
 
 .venogroup .block .portfolio-menu ul li:hover:before {
   /* content: "\f0d7"; */
-  color: #5393A6;
+  color: #F2581B;
   position: absolute;
   font-family: 'FontAwesome';
   bottom: -18px;
@@ -1061,6 +1061,15 @@ footer .footer-manu ul li a:hover {
   color: #000;
 }
 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+  header .navbar-default .navbar-nav li a {
+    font-size: 30px;
+    padding-left:  12px;
+    padding-right: 12px;
+  }
+}
+
 /*		Default Layout: 992px.
 		Gutters: 24px.
 		Outer margins: 48px.
@@ -1080,8 +1089,11 @@ px      68    160    252    344    436    528    620    712    */
 					Index Start
 -----------------------------------------------*/
 header .navbar-default .navbar-nav li a {
-  font-size: 20px;
+  font-size: 22px;
+  padding-left: 11px;
+  padding-right: 11px;
 }
+
   /*--
 	wrapper Start
 --*/
@@ -1259,15 +1271,19 @@ px      68    160    252    */
   }
   nav #header-logo {
       float: left;
-      margin-top: 6px;
-      margin-bottom: 8px;
-      height: 34px;
+      margin-top: 0px;
+      margin-bottom: 2px;
+      height: 75px;
       padding: 0;
       padding-right: 10px;
       display: block;
       max-width: 85%;
       object-fit: contain;
       width: auto;
+  }
+  .navbar-toggle {
+    transform: scale(1.5);
+    transform-origin: top right;
   }
   #slider {
     padding-top: 90px;
@@ -1513,4 +1529,17 @@ px      68    160    252    344    436    */
 #terms p {
   margin-bottom: 20px;
   color: #8d8f92;
+}
+
+
+/* Who we are */
+
+.biophoto img {
+}
+
+@media only screen and (max-width: 991px) {
+  .biophoto img {
+    width: 50%;
+    margin: 5px;
+  }
 }

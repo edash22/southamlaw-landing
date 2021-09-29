@@ -23,6 +23,10 @@ theme = "airspace-hugo"
       url = "services"
     [[menu.header]]
       weight = 5
+      name = "Who we are"
+      url = "who-we-are"
+    [[menu.header]]
+      weight = 6
       name = "Contact"
       url = "contact"
 
