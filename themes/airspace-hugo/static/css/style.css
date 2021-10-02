@@ -134,7 +134,7 @@ a:active {
 .btn-main:hover,
 .btn-transparent:hover,
 .btn-small:hover {
-  background: #F2581B;
+  background: #661012;
   color: #fff;
 }
 .btn-solid-border {
@@ -143,8 +143,8 @@ a:active {
   color: #fff;
 }
 .btn-solid-border:hover {
-  border: 1px solid #F2581B;
-  background: #F2581B;
+  border: 1px solid #661012;
+  background: #661012;
 }
 /*--
 	Header Start
@@ -155,7 +155,7 @@ header {
 }
 
 #header-logo {
-  width: 50%;
+  width: 30%;
   margin: auto;
   display: block;
   padding-bottom: 10px;
@@ -619,7 +619,7 @@ body.is-preload #slider.fade-in:before {
 .venogroup .block .portfolio-menu ul li:hover {
   color: #FFFFFF;
   position: relative;
-  background-color: #F2581B;
+  background-color: #661012;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -650,7 +650,7 @@ body.is-preload #slider.fade-in:before {
 
 .venogroup .block .portfolio-menu ul li:hover:before {
   /* content: "\f0d7"; */
-  color: #F2581B;
+  color: #661012;
   position: absolute;
   font-family: 'FontAwesome';
   bottom: -18px;
@@ -1251,7 +1251,7 @@ px      68    160    252    */
     font-size: 18px;
   }
   p {
-    font-size: 13px;
+    font-size: 16px;
   }
   header {
     padding-top: 20px;
@@ -1296,7 +1296,7 @@ px      68    160    252    */
     font-size: 20px;
   }
   #slider .block p {
-    font-size: 13px;
+    font-size: 16px;
   }
   /*--
 	wrapper Start
