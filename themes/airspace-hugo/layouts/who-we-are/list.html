@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html" . }}
+
+	{{ partial "global-header.html" . }}
+
+  <section id="who-we-are">
+      <div class="container">
+          <!-- Counter is for keeping track of every other page -->
+          {{ $.Scratch.Set "counter" 1}}
+          {{ range .Pages }}
+          {{ $counter := $.Scratch.Get "counter" }}
+          {{ $.Scratch.Add "counter" 1}}
+          <div class="row">
+            <div class="col-md-12 col-sm-12">
+              <div class="block">
+                <!-- TODO: style this so there is some space, but not a huge amount -->
+                <div>
+                  <h1>{{ .Title }}</h1>
+                </div>
+              </div>
+            </div>
+            </div>
+            <div class="row">
+
+            <!-- full width if there is no photo -->
+            <div class="col-md-12 col-sm-12">
+              <div class="block">
+              {{ if .Params.image }}
+              {{ if not (modBool $counter 2) }}
+                <!-- Odd goes right -->
+                <div class="pull-right" style="margin-left: 15px; margin-bottom: 15px">
+              {{ else }}
+                <!-- Even goes left -->
+                <div class="pull-left" style="margin-right: 15px; margin-bottom: 15px">
+              {{ end }}
+                {{ $image := .Resources.GetMatch .Params.image }}
+                    <!-- resize the image associated for better loading times -->
+                    <!-- at medium, the max width is 417px (on the side of the tesxt)-->
+                    {{ $md_full3x := $image.Resize "1251x" }}
+                    {{ $md_full2x := $image.Resize "834x" }}
+                    {{ $md_full1x := $image.Resize "417x" }}
+                    <!-- at small, the max width is 680px (below the text)-->
+                    {{ $sm_full3x := $image.Resize "2040x" }}
+                    {{ $sm_full2x := $image.Resize "1360x" }}
+                    {{ $sm_full1x := $image.Resize "680x" }}
+
+                    <!-- TODO: make these images not be huge on mobile -->
+                    <picture class="biophoto">
+                        <source srcset="{{ $md_full3x.Permalink }} 3x, {{ $md_full2x.Permalink }} 2x, {{ $md_full1x.Permalink }} 1x" media="(min-width: 992px)"/>
+                        <source srcset="{{ $sm_full3x.Permalink }} 3x, {{ $sm_full2x.Permalink }} 2x, {{ $sm_full1x.Permalink }} 1x" media="(min-width: 768px)"/>
+                        <source srcset="{{ $sm_full3x.Permalink }} 3x, {{ $sm_full2x.Permalink }} 2x, {{ $sm_full1x.Permalink }} 1x" />
+                        <img srcset="{{ $sm_full1x.Permalink }}" alt="{{ .Params.imagealt }}" title="{{ .Params.imagealt }}"/>
+                    </picture>
+              </div>
+              {{ end }}
+              <div style="float:none;">
+                  {{ .Content }}
+              </div>
+              </div>
+          </div><!-- .col-md-7 close -->
+          </div>
+
+          <!-- <div class="col-md-6">
+            <div>
+              {{ with .Params.image }}
+              <img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb"> {{ end }}
+              <a class="post-title" href="{{ .Permalink }}">{{ if .Params.pretitle }}{{ .Params.pretitle }}{{ end }}{{ .Title }}</a>
+              {{ if not .Params.image }}
+              <p>
+                {{ .Content }}
+              </p>
+              {{ end }}
+            </div>
+          </div> -->
+          {{ end }}
+        </div>
+      </div>
+  </section>
+
+
+	{{ partial "footer.html" . }}
+
+</body>
+</html>
