@@ -39,7 +39,7 @@ In the Agreement, You agree to accept electronic communication from Southam Law 
 
 ## What rights do You have?
 
-You have the right to suspend services at any time. You have the right to obtain an electronic copy of your file from Southam Law LLC for free or a paper copy for a small fee. You have the right to communicate freely and confidentially with Southam Law LLC. All information You share with Southam Law LLC is private and confidential.
+You have the right to suspend services at any time. You have the right to be informed about Your application or case and to make decisions about Your application or case. You have the right to obtain an electronic copy of your file from Southam Law LLC for free or a paper copy for a small fee. You have the right to communicate freely and confidentially with Southam Law LLC. All information You share with Southam Law LLC is private and confidential.
 
 ## What rights does Southam Law LLC have?
 
