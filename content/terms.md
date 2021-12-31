@@ -7,7 +7,7 @@ lang = "en"
 
 ## Why have these Terms and Conditions?
 
-These Terms and Conditions accompany a Legal Services Agreement (that is, a contract). If You asked Southam Law LLC to help you with a specific application or case, Southam Law LLC will ask You to sign a Legal Services Agreement. These Terms and Conditions give more detailed rules to the Legal Services Agreement between You and Southam Law LLC. In the Legal Services Agreement and in these Terms and Conditions, the word "You" means the person who signed the Legal Services Agreement and the word "Agreement" means the Legal Services Agreement.
+These Terms and Conditions accompany a Legal Services Agreement (that is, a contract). If You asked Southam Law LLC to help you with a specific application or case, Southam Law LLC will ask You to sign a Legal Services Agreement. These Terms and Conditions give more detailed rules to the Legal Services Agreement between You and Southam Law LLC. In the Legal Services Agreement and in these Terms and Conditions, the word “You” means the person or persons who signed the Legal Services Agreement, and the word “Agreement” means the Legal Services Agreement.
 
 ## What is the reason for the Agreement?
 
