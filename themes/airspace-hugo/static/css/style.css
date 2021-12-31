@@ -184,7 +184,7 @@ header .navbar-default .navbar-nav {
 header .navbar-default .navbar-nav li a {
   color: #333333;
   padding: 10px 26px;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 font header .navbar-default .navbar-nav li a:hover {
@@ -1064,7 +1064,7 @@ footer .footer-manu ul li a:hover {
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 
   header .navbar-default .navbar-nav li a {
-    font-size: 30px;
+    font-size: 25px;
     padding-left:  12px;
     padding-right: 12px;
   }
@@ -1089,7 +1089,7 @@ px      68    160    252    344    436    528    620    712    */
 					Index Start
 -----------------------------------------------*/
 header .navbar-default .navbar-nav li a {
-  font-size: 22px;
+  font-size: 18px;
   padding-left: 11px;
   padding-right: 11px;
 }
