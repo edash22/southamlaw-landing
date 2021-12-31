@@ -1521,14 +1521,31 @@ px      68    160    252    344    436    */
 
 
 /* terms */
+#terms h1, h3, h4, h5, h6 {
+  color: #000000;
+}
+
 #terms h2 {
   font-size: 15px;
   font-weight: 400;
+  color: #000000;
 }
 
-#terms p {
+#terms {
   margin-bottom: 20px;
   color: #8d8f92;
+}
+
+#terms ol {
+  list-style-type:none;
+}
+
+#terms li:before {
+  content:"(" counter(section, decimal) ") ";
+}
+
+#terms li {
+  counter-increment:section;
 }
 
 
