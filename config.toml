@@ -3,6 +3,9 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # The site's parameters
 [params]
   home = "Home"

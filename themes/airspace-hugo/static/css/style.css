@@ -53,6 +53,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
+  font-size: 16px
 }
 
 h1,
@@ -70,19 +71,38 @@ h2 {
 }
 
 h3 {
-  font-size: 28px;
+  font-size: 26px;
   font-weight: 300;
 }
 
 p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 28px;
 }
 
-ul {
+#contact-form ul {
   padding: 0;
   margin: 0;
   list-style: none;
+}
+
+.portfolio-menu ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.counter-box {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+blockquote {
+  padding: 0px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: none;
 }
 
 .fz-20{
@@ -299,7 +319,7 @@ body.is-preload #slider.fade-in:before {
 
 #services .services-item {
   padding-bottom: 30px;
-  min-height: 300px;
+  min-height: 325px;
 }
 
 #services .services-item i {
@@ -1139,6 +1159,10 @@ header .navbar-default .navbar-nav li a {
   footer .navbar-default .navbar-nav li a:hover {
     color: #000;
   }
+
+  #services .services-item {
+    min-height: 250px;
+  }
   /*---------------------------------------------
 					Index Close
 -----------------------------------------------*/
@@ -1316,6 +1340,9 @@ px      68    160    252    */
 --*/
   #services {
     padding-top: 100px;
+  }
+  #services .services-item {
+    min-height: 0px;
   }
   #services .thumbnail {
     padding-bottom: 70px;
@@ -1526,7 +1553,7 @@ px      68    160    252    344    436    */
 }
 
 #terms h2 {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 400;
   color: #000000;
 }
