@@ -39,7 +39,7 @@ En el Acuerdo, Usted acepta recibir comunicaciones electrónicas de Southam Law 
 
 ## ¿Qué derechos tiene Usted?
 
-Tiene derecho a suspender los servicios en cualquier momento. Tiene derecho a obtener una copia electrónica de Su archivo de Southam Law LLC de forma gratuita o una copia en papel por una pequeña tarifa. Tiene derecho a comunicarse de forma libre y confidencial con Southam Law LLC. Toda la información que comparte con Southam Law LLC es privada y confidencial.
+Tiene derecho a suspender los servicios en cualquier momento. Tiene derecho a ser informado sobre Su solicitud o caso y a tomar decisiones sobre Su solicitud o caso. Tiene derecho a obtener una copia electrónica de Su archivo de Southam Law LLC de forma gratuita o una copia en papel por una pequeña tarifa. Tiene derecho a comunicarse libre y confidencialmente con Southam Law LLC. Toda la información que comparte con Southam Law LLC es privada y confidencial.
 
 ## ¿Qué derechos tiene Southam Law LLC?
 
