@@ -47,7 +47,7 @@ Southam Law LLC tiene el derecho de suspender los servicios si Usted no paga las
 
 ## ¿Qué sucede si usted o Southam Law LLC suspende los servicios?
 
-Si Usted o Southam Law LLC suspende los servicios, acepta pagar a Southam Law LLC una cantidad equivalente a $250 por hora por el tiempo ya trabajado en Su caso; Southam Law LLC proporcionará detalles de los servicios y el monto total adeudado. Si Southam Law LLC suspende los servicios, Southam Law LLC tomará las medidas adecuadas para garantizar que Sus intereses estén protegidos, incluida la garantía de que no se pierda ninguna fecha límite de inmigración y esté al tanto de abogados alternativos. Si Southam Law LLC suspende los servicios, Southam Law LLC Le notificará por escrito a Su última dirección postal y de correo electrónico conocida.
+Si usted o Southam Law LLC suspende los servicios, acepta pagarle a Southam Law LLC una cantidad equivalente a $350 por hora por el tiempo ya trabajado en Su caso por un abogado senior, $250 por hora por el tiempo ya trabajado en Su caso por un abogado junior, o $150 por hora por el tiempo ya trabajado en Su caso por un asistente legal; Southam Law LLC proporcionará detalles de los servicios y el monto total adeudado. Si Southam Law LLC suspende los servicios, Southam Law LLC tomará las medidas adecuadas para garantizar que sus intereses estén protegidos, incluida la garantía de que no se pierda ninguna fecha límite de inmigración y esté al tanto de abogados alternativos. Si Southam Law LLC suspende los servicios, Southam Law LLC Le notificará por escrito a Su última dirección postal y de correo electrónico conocida.
 
 ## ¿Puede Southam Law LLC garantizar una aprobación?
 
