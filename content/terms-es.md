@@ -7,7 +7,7 @@ lang = "es"
 
 ## ¿Por qué existen estos términos y condiciones?
 
-Estos Términos y Condiciones acompañan a un Acuerdo de Servicios Legales (es decir, un contrato). Si Le pidió a Southam Law LLC que Lo ayudara con una aplicación o caso específico, Southam Law LLC Le pedirá que firme un Acuerdo de Servicios Legales. Estos Términos y Condiciones brindan reglas más detalladas al Acuerdo de Servicios Legales entre Usted y Southam Law LLC. En el Acuerdo de Servicios Legales y en estos Términos y Condiciones, las palabras "Usted," "Le," y "Lo" significan la persona que firmó el Acuerdo de Servicios Legales y la palabra "Acuerdo" significa el Acuerdo de Servicios Legales.
+Estos Términos y Condiciones acompañan a un Acuerdo de Servicios Legales (es decir, un contrato). Si Le pidió a Southam Law LLC que Lo ayudara con una aplicación o caso específico, Southam Law LLC Le pedirá que firme un Acuerdo de Servicios Legales. Estos Términos y Condiciones brindan reglas más detalladas al Acuerdo de Servicios Legales entre Usted y Southam Law LLC. En el Acuerdo de Servicios Legales y en estos Términos y Condiciones, las palabras “Usted,” “Le,” y “Lo” significan la persona (o las personas) que firmó (o firmaron) el Acuerdo de Servicios Legales y la palabra “Acuerdo” significa el Acuerdo de Servicios Legales.
 
 ## ¿Cuál es el motivo del acuerdo?
 
@@ -15,11 +15,23 @@ El Acuerdo es un contrato entre Usted y Southam Law LLC. En esto, le otorga un p
 
 ## ¿Cuánto tiempo durará el Acuerdo?
 
-El Acuerdo entra en vigor cuando Usted lo firma y lo devuelve a Southam Law LLC. El Acuerdo seguirá teniendo efecto y Southam Law LLC continuará brindando servicios hasta que los funcionarios de inmigración aprueben Su solicitud o caso, hasta que los funcionarios de inmigración denieguen Su solicitud o caso, hasta un año después de la primera entrevista de inmigración en Su caso, hasta dos años después Su solicitud ha sido enviada a los funcionarios de inmigración, o hasta que Usted o Southam Law LLC suspendan los servicios, lo que ocurra primero.
+El Acuerdo entra en vigor cuando Usted lo firma y lo devuelve a Southam Law LLC.
+
+El Acuerdo seguirá teniendo efecto y Southam Law LLC continuará brindando servicios como se describe en Su Acuerdo. Cualquiera de los siguientes eventos puede poner fin a los servicios de Southam Law LLC:
+
+1. Si los funcionarios de inmigración aprueban Su solicitud o caso,
+1. Si los funcionarios de inmigración niegan Su solicitud o caso,
+1. Si Usted o Southam Law LLC suspende los servicios,
+1. Si los funcionarios de inmigración emiten un recibo en Su solicitud o caso (esta disposición se aplica si Su Acuerdo incluye solo el servicio de presentar y enviar una solicitud, pero no incluye monitoreo continuo, asistencia adicional o preparación para una entrevista)
+1. Si ha pasado un año desde la primera entrevista de inmigración en Su caso.
+
+Southam Law LLC Le enviará una notificación por escrito cuando los servicios hayan concluido.
 
 ## ¿Cómo debe comunicarse con Southam Law LLC?
 
-Esta es una relación comercial entre Usted y Southam Law LLC que durará algún tiempo. Southam Law LLC equilibra más de doscientos casos a la vez. Los abogados y los miembros del personal a menudo están en reuniones, en oficinas de inmigración, trabajando desde casa, etc. Para una mejor comunicación, Southam Law LLC Lo alienta a usar el correo electrónico. Por favor, dé a Southam Law LLC 48 horas hábiles para responder a los mensajes. Si tiene una emergencia, envíe un mensaje de texto a Southam Law LLC para obtener una respuesta más rápida. Por favor, déle a Southam Law LLC 1-2 semanas después de devolver los documentos o cuestionarios.
+Esta es una relación comercial entre Usted y Southam Law LLC que durará algún tiempo. Por esa razón, la comunicación es fundamental. Además, debido a la naturaleza compleja de cualquier caso legal, la comunicación a menudo debe ser escrita y provenir de varios miembros del personal. En este Acuerdo, Usted acepta comunicarse con todos los miembros del personal de Southam Law LLC, no solo con los abogados. En este Acuerdo, también acepta mantener y verificar una cuenta de correo electrónico.
+
+Debido a que Southam Law LLC equilibra casi trescientos casos a la vez y debido a que los abogados y los miembros del personal a menudo están en reuniones, en oficinas de inmigración, trabajando desde casa, etc., Southam Law LLC Lo alienta a seguir estas pautas de comunicación. Por favor, utilice correo electrónico o mensajes de texto. Por favor, dé a Southam Law LLC 48 horas hábiles para responder mensajes de texto, correos electrónicos y mensajes de voz. Si tiene una emergencia, envíe un mensaje de texto a Southam Law LLC para obtener una respuesta más rápida. Por favor, déle a Southam Law LLC 1-2 semanas después de devolver los documentos o cuestionarios.
 
 ## ¿Cuáles son otros puntos importantes sobre la comunicación?
 
@@ -27,7 +39,7 @@ En el Acuerdo, Usted acepta recibir comunicaciones electrónicas de Southam Law 
 
 ## ¿Qué derechos tiene Usted?
 
-Tiene derecho a suspender los servicios en cualquier momento. Tiene derecho a obtener una copia electrónica de Su archivo de Southam Law LLC de forma gratuita o una copia en papel por una pequeña tarifa. Tiene derecho a comunicarse de forma libre y confidencial con Southam Law LLC. Toda la información que comparte con Southam Law LLC es privada y confidencial.
+Tiene derecho a suspender los servicios en cualquier momento. Tiene derecho a ser informado sobre Su solicitud o caso y a tomar decisiones sobre Su solicitud o caso. Tiene derecho a obtener una copia electrónica de Su archivo de Southam Law LLC de forma gratuita o una copia en papel por una pequeña tarifa. Tiene derecho a comunicarse libre y confidencialmente con Southam Law LLC. Toda la información que comparte con Southam Law LLC es privada y confidencial.
 
 ## ¿Qué derechos tiene Southam Law LLC?
 
@@ -35,7 +47,7 @@ Southam Law LLC tiene el derecho de suspender los servicios si Usted no paga las
 
 ## ¿Qué sucede si usted o Southam Law LLC suspende los servicios?
 
-Si Usted o Southam Law LLC suspende los servicios, acepta pagar a Southam Law LLC una cantidad equivalente a $250 por hora por el tiempo ya trabajado en Su caso; Southam Law LLC proporcionará detalles de los servicios y el monto total adeudado. Si Southam Law LLC suspende los servicios, Southam Law LLC tomará las medidas adecuadas para garantizar que Sus intereses estén protegidos, incluida la garantía de que no se pierda ninguna fecha límite de inmigración y esté al tanto de abogados alternativos. Si Southam Law LLC suspende los servicios, Southam Law LLC Le notificará por escrito a Su última dirección postal y de correo electrónico conocida.
+Si usted o Southam Law LLC suspende los servicios, acepta pagarle a Southam Law LLC una cantidad equivalente a $350 por hora por el tiempo ya trabajado en Su caso por un abogado senior, $250 por hora por el tiempo ya trabajado en Su caso por un abogado junior, o $150 por hora por el tiempo ya trabajado en Su caso por un asistente legal; Southam Law LLC proporcionará detalles de los servicios y el monto total adeudado. Si Southam Law LLC suspende los servicios, Southam Law LLC tomará las medidas adecuadas para garantizar que sus intereses estén protegidos, incluida la garantía de que no se pierda ninguna fecha límite de inmigración y esté al tanto de abogados alternativos. Si Southam Law LLC suspende los servicios, Southam Law LLC Le notificará por escrito a Su última dirección postal y de correo electrónico conocida.
 
 ## ¿Puede Southam Law LLC garantizar una aprobación?
 
@@ -59,4 +71,4 @@ Si un cheque que envía se devuelve por fondos insuficientes ("rebotado" en espa
 
 ## ¿Qué sucede si no está de acuerdo con esta versión de los Términos y condiciones?
 
-Estos Términos y Condiciones entran en vigencia a partir del 1 de enero de 2021. Si cree que esta versión de los Términos y Condiciones entra en conflicto con Su Contrato tal como se firmó, Southam Law LLC se complace en proporcionar versiones anteriores de los Términos y Condiciones a pedido.
+Estos Términos y Condiciones entran en vigencia a partir del 1 de enero de 2022. Si cree que esta versión de los Términos y Condiciones entra en conflicto con Su Acuerdo tal como se firmó, Southam Law LLC se complace en proporcionar versiones anteriores de los Términos y Condiciones a pedido.

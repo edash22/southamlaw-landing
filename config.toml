@@ -3,6 +3,9 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # The site's parameters
 [params]
   home = "Home"
@@ -29,10 +32,14 @@ theme = "airspace-hugo"
       weight = 6
       name = "Contact"
       url = "contact"
+    [[menu.header]]
+      weight = 6
+      name = "Payment"
+      url = "payment"
 
     [[menu.footer]]
       weight = 1
-      name = "About us"
+      name = "Home"
       url = "#"
     [[menu.footer]]
       weight = 2
@@ -40,16 +47,12 @@ theme = "airspace-hugo"
       url = "contact"
     [[menu.footer]]
       weight = 3
-      name = "How it works"
-      url = "work"
-    [[menu.footer]]
-      weight = 4
-      name = "News"
-      url = "news"
-    [[menu.footer]]
-      weight = 5
       name = "Terms"
       url = "terms"
+    [[menu.footer]]
+      weight = 4
+      name = "Make a payment"
+      url = "payment"
 
   [params.header]
     bgImage = "images/depaul-loop-trimmed.jpg"
