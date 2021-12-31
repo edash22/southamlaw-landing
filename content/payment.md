@@ -9,7 +9,7 @@ lang = "en"
 Southam Law LLC can accept payment by cash; check; electronically using QuickPay, Zelle, or a similar bill pay service; or by debit or credit card. Please let us know if you have any further questions or difficulties with the payment.
 
 ### QuickPay/Zelle payments
- For QuickPay/Zelle payments, use the name “<font color="#E52426">Southam Law LLC</font>” and the email address “<font color="#E52426">keith\@southamlaw.com</font>”.
+ For QuickPay/Zelle payments, select the option for a "<font color="#E52426">Business</font>" and use the name “<font color="#E52426">Southam Law LLC</font>” and the email address “<font color="#E52426">keith\@southamlaw.com</font>”.
 
  ### Checks and other bill pay services
  Please make other bill pay services and checks payable to “Southam Law LLC” and send them to:  
