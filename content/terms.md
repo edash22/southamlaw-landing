@@ -15,7 +15,17 @@ The Agreement is a contract between You and Southam Law LLC. In this You are giv
 
 ## How long will the Agreement last?
 
-The Agreement enters into force when You sign it and return it to Southam Law LLC. The Agreement will continue to have effect and Southam Law LLC will continue to provide services until immigration officials approve Your application or case, until immigration officials deny Your application or case, until one year after the first immigration interview in Your case, until two years after Your application has been submitted to immigration officials, or until either You or Southam Law LLC suspends services, whichever is earliest.
+The Agreement enters into force when You sign it and return it to Southam Law LLC.
+
+The Agreement will continue to have effect and Southam Law LLC will continue to provide services as described in Your Agreement. Any of the following events may end services from Southam Law LLC:
+
+1. If immigration officials approve Your application or case, 
+1. If immigration officials deny Your application or case,
+1. If You or Southam Law LLC suspends services,
+1. If immigration officials issue a receipt in Your application or case (this provision applies if Your Agreement includes only the service of filing and submitting an application but does not include ongoing monitoring, further assistance, or interview preparation), or
+1. If one year has passed since the first immigration interview in Your case (this provision applies if Your Agreement includes an interview with immigration officials).
+
+Southam Law LLC will send You written notice when services have concluded.
 
 ## How should You communicate with Southam Law LLC?
 
