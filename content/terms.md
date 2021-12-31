@@ -29,7 +29,9 @@ Southam Law LLC will send You written notice when services have concluded.
 
 ## How should You communicate with Southam Law LLC?
 
-This is a business relationship between You and Southam Law LLC that will last for some time. Southam Law LLC balances over two hundred cases at a time. Attorneys and staff members are often in meetings, at immigration offices, working from home, etc. For the best communication, Southam Law LLC encourages You to use email. Please give Southam Law LLC 48 business hours to reply to messages. If You have an emergency, please text Southam Law LLC for a faster response. Please give Southam Law LLC 1-2 weeks after returning documents or questionnaires.
+This is a business relationship between You and Southam Law LLC that will last for some time. For that reason, communication is critical. In addition, because of the complex nature of any legal case, communication must often be written and come from multiple staff members. In this Agreement, You agree to communicate with all members of Southam Law LLC staff, not just attorneys. In this Agreement, You also agree to maintain and check an email account.
+
+Because Southam Law LLC balances nearly three hundred cases at a time and  because attorneys and staff members are often in meetings, at immigration offices, working from home, etc., Southam Law LLC encourages you to follow these communication guidelines. Please use email or text messages. Please give Southam Law LLC 48 business hours to reply to text messages, emails, and voice messages. If You have an emergency, please text Southam Law LLC for a faster response. Please give Southam Law LLC 1-2 weeks after returning documents or questionnaires.
 
 ## What are other important points about communication?
 
