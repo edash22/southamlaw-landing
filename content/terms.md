@@ -29,7 +29,7 @@ In the Agreement, You agree to accept electronic communication from Southam Law 
 
 You have the right to suspend services at any time. You have the right to obtain an electronic copy of your file from Southam Law LLC for free or a paper copy for a small fee. You have the right to communicate freely and confidentially with Southam Law LLC. All information You share with Southam Law LLC is private and confidential.
 
-## What rights does the Southam Law LLC?
+## What rights does Southam Law LLC have?
 
 Southam Law LLC has the right to suspend services if You do not pay the fees for services. Southam Law LLC also has the right to suspend services if You do not provide information or documents, if the Southam Law LLC learns You have provided false information or documents, or if You hide information or do not cooperate with Southam Law LLC’s requests. Southam Law LLC also has the right to suspend services if You do not update contact information, if You do not respond to communications from Southam Law LLC in a reasonable time or for any other reason permitted by the Illinois Rules of Professional Conduct. Southam Law LLC also has the right to suspend services if Southam Law LLC closes or merges with another law office.
 
