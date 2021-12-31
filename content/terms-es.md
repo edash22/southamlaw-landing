@@ -7,7 +7,7 @@ lang = "es"
 
 ## ¿Por qué existen estos términos y condiciones?
 
-Estos Términos y Condiciones acompañan a un Acuerdo de Servicios Legales (es decir, un contrato). Si Le pidió a Southam Law LLC que Lo ayudara con una aplicación o caso específico, Southam Law LLC Le pedirá que firme un Acuerdo de Servicios Legales. Estos Términos y Condiciones brindan reglas más detalladas al Acuerdo de Servicios Legales entre Usted y Southam Law LLC. En el Acuerdo de Servicios Legales y en estos Términos y Condiciones, las palabras "Usted," "Le," y "Lo" significan la persona que firmó el Acuerdo de Servicios Legales y la palabra "Acuerdo" significa el Acuerdo de Servicios Legales.
+Estos Términos y Condiciones acompañan a un Acuerdo de Servicios Legales (es decir, un contrato). Si Le pidió a Southam Law LLC que Lo ayudara con una aplicación o caso específico, Southam Law LLC Le pedirá que firme un Acuerdo de Servicios Legales. Estos Términos y Condiciones brindan reglas más detalladas al Acuerdo de Servicios Legales entre Usted y Southam Law LLC. En el Acuerdo de Servicios Legales y en estos Términos y Condiciones, las palabras “Usted,” “Le,” y “Lo” significan la persona (o las personas) que firmó (o firmaron) el Acuerdo de Servicios Legales y la palabra “Acuerdo” significa el Acuerdo de Servicios Legales.
 
 ## ¿Cuál es el motivo del acuerdo?
 
