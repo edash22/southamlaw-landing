@@ -29,7 +29,9 @@ Southam Law LLC Le enviará una notificación por escrito cuando los servicios h
 
 ## ¿Cómo debe comunicarse con Southam Law LLC?
 
-Esta es una relación comercial entre Usted y Southam Law LLC que durará algún tiempo. Southam Law LLC equilibra más de doscientos casos a la vez. Los abogados y los miembros del personal a menudo están en reuniones, en oficinas de inmigración, trabajando desde casa, etc. Para una mejor comunicación, Southam Law LLC Lo alienta a usar el correo electrónico. Por favor, dé a Southam Law LLC 48 horas hábiles para responder a los mensajes. Si tiene una emergencia, envíe un mensaje de texto a Southam Law LLC para obtener una respuesta más rápida. Por favor, déle a Southam Law LLC 1-2 semanas después de devolver los documentos o cuestionarios.
+Esta es una relación comercial entre Usted y Southam Law LLC que durará algún tiempo. Por esa razón, la comunicación es fundamental. Además, debido a la naturaleza compleja de cualquier caso legal, la comunicación a menudo debe ser escrita y provenir de varios miembros del personal. En este Acuerdo, Usted acepta comunicarse con todos los miembros del personal de Southam Law LLC, no solo con los abogados. En este Acuerdo, también acepta mantener y verificar una cuenta de correo electrónico.
+
+Debido a que Southam Law LLC equilibra casi trescientos casos a la vez y debido a que los abogados y los miembros del personal a menudo están en reuniones, en oficinas de inmigración, trabajando desde casa, etc., Southam Law LLC Lo alienta a seguir estas pautas de comunicación. Por favor, utilice correo electrónico o mensajes de texto. Por favor, dé a Southam Law LLC 48 horas hábiles para responder mensajes de texto, correos electrónicos y mensajes de voz. Si tiene una emergencia, envíe un mensaje de texto a Southam Law LLC para obtener una respuesta más rápida. Por favor, déle a Southam Law LLC 1-2 semanas después de devolver los documentos o cuestionarios.
 
 ## ¿Cuáles son otros puntos importantes sobre la comunicación?
 
