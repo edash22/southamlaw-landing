@@ -71,4 +71,4 @@ Si un cheque que envía se devuelve por fondos insuficientes ("rebotado" en espa
 
 ## ¿Qué sucede si no está de acuerdo con esta versión de los Términos y condiciones?
 
-Estos Términos y Condiciones entran en vigencia a partir del 1 de enero de 2021. Si cree que esta versión de los Términos y Condiciones entra en conflicto con Su Contrato tal como se firmó, Southam Law LLC se complace en proporcionar versiones anteriores de los Términos y Condiciones a pedido.
+Estos Términos y Condiciones entran en vigencia a partir del 1 de enero de 2022. Si cree que esta versión de los Términos y Condiciones entra en conflicto con Su Acuerdo tal como se firmó, Southam Law LLC se complace en proporcionar versiones anteriores de los Términos y Condiciones a pedido.
