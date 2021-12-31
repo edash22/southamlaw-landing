@@ -1,7 +1,6 @@
 +++
 title = "Make a payment"
 bgImage = "images/depaul-loop-trimmed.jpg"
-id = "payment"
 lang = "en"
 +++
 
