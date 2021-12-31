@@ -15,7 +15,17 @@ El Acuerdo es un contrato entre Usted y Southam Law LLC. En esto, le otorga un p
 
 ## ¿Cuánto tiempo durará el Acuerdo?
 
-El Acuerdo entra en vigor cuando Usted lo firma y lo devuelve a Southam Law LLC. El Acuerdo seguirá teniendo efecto y Southam Law LLC continuará brindando servicios hasta que los funcionarios de inmigración aprueben Su solicitud o caso, hasta que los funcionarios de inmigración denieguen Su solicitud o caso, hasta un año después de la primera entrevista de inmigración en Su caso, hasta dos años después Su solicitud ha sido enviada a los funcionarios de inmigración, o hasta que Usted o Southam Law LLC suspendan los servicios, lo que ocurra primero.
+El Acuerdo entra en vigor cuando Usted lo firma y lo devuelve a Southam Law LLC.
+
+El Acuerdo seguirá teniendo efecto y Southam Law LLC continuará brindando servicios como se describe en Su Acuerdo. Cualquiera de los siguientes eventos puede poner fin a los servicios de Southam Law LLC:
+
+1. Si los funcionarios de inmigración aprueban Su solicitud o caso,
+1. Si los funcionarios de inmigración niegan Su solicitud o caso,
+1. Si Usted o Southam Law LLC suspende los servicios,
+1. Si los funcionarios de inmigración emiten un recibo en Su solicitud o caso (esta disposición se aplica si Su Acuerdo incluye solo el servicio de presentar y enviar una solicitud, pero no incluye monitoreo continuo, asistencia adicional o preparación para una entrevista)
+1. Si ha pasado un año desde la primera entrevista de inmigración en Su caso.
+
+Southam Law LLC Le enviará una notificación por escrito cuando los servicios hayan concluido.
 
 ## ¿Cómo debe comunicarse con Southam Law LLC?
 
