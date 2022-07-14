@@ -18,4 +18,4 @@ Southam Law LLC can accept payment by cash; check; electronically using QuickPay
  > Chicago IL 60654  
 
  ### Debit or credit card 
- To pay by debit or credit card, please go to: https://secure.lawpay.com/pages/southam-law/operating
+ To pay by debit or credit card, please phone the office at: 773-466-4478
