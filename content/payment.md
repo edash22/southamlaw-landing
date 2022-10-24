@@ -4,14 +4,14 @@ bgImage = "images/depaul-loop-trimmed.jpg"
 lang = "en"
 +++
 
-# This page has information about
+## This page has information about
 
 <a href "#how-to-make-a-payment">How to make a payment</a><br>
-When to make a payment<br>
-Account statements/invoices<br>
-Other tips
+<a href "#when-to-make-a-payment">When to make a payment</a><br>
+<a href "#account-statements/invoices"></a><br>
+<a href "#when-to-make-a-payment">Other tips</a><br>
 
-## How to make a payment
+# How to make a payment
 
 Southam Law LLC can accept payment by QuickPay/Zelle, checks/money orders, cash, and credit/debit cards. Be sure to include your <font color="#E52426"> full legal name </font> with your payment.
 
@@ -37,7 +37,7 @@ To pay by debit or credit card, please phone the office at 773-466-4478 or email
 
 To pay by cash, please phone the office at 773-466-4478 to set up an appointment.
 
-## When to make a payment
+# When to make a payment
 
 <b>Consultations</b>: please pay your consultation fee before your consultation meeting (at least 48 hours in advance) or our office will cancel the meeting.
 
@@ -45,13 +45,13 @@ To pay by cash, please phone the office at 773-466-4478 to set up an appointment
 
 <b>Monthly/Recurring payment</b>: please make any monthly or recurring payments payment by the 20th of the month so that your payment shows on your account statement.
 
-## Account Statements/Invoices
+# Account Statements/Invoices
 
 <b>First Statement</b>: Within a few days to a week after you sign a contract for services you will receive your first account statement. It will arrive by email from quickbooks@notification.intuit.com. We recommend that you add this email address to your "safe senders" list. We encourage you to make an initial payment as soon as you get the account statement. If you don’t get an account statement after a week, please contact our office by email at info@southamlaw.com.
 
 <b>Monthly Statements</b>: If you have an account balance, near the beginning of each month, you will receive an account statement. It will arrive by email from quickbooks@notification.intuit.com. We recommend that you add this email address to your "safe senders" list. The statement will show the payments you have made recently and the total balance. If you think a payment is missing, let us know right away and send us the receipt with the confirmation number.
 
-## Other Tips
+# Other Tips
 
 There is no need to email or text us when you make a payment. If you're worried about payments, our best advice is to save your confirmations and compare them to your monthly statement.
 
