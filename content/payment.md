@@ -6,7 +6,7 @@ lang = "en"
 
 # This page has information about
 
-How to make a payment<br>
+<a href "#how-to-make-a-payment">How to make a payment</a><br>
 When to make a payment<br>
 Account statements/invoices<br>
 Other tips
