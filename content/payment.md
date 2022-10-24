@@ -4,7 +4,7 @@ bgImage = "images/depaul-loop-trimmed.jpg"
 lang = "en"
 +++
 
-## This page has information about
+# This page has information about
 
 <a href "#how-to-make-a-payment">How to make a payment</a><br>
 <a href "#when-to-make-a-payment">When to make a payment</a><br>
@@ -16,11 +16,11 @@ lang = "en"
 Southam Law LLC can accept payment by QuickPay/Zelle, checks/money orders, cash, and credit/debit cards. Be sure to include your <font color="#E52426"> full legal name </font> with your payment.
 
 
-<b>QuickPay/Zelle</b>
+## QuickPay/Zelle
 
 For QuickPay/Zelle payments, select the option for a “Business” and use the name “Southam Law LLC” and the email address “keith@southamlaw.com”. Add your full legal name in the notes field so our accountant knows this is your payment.
 
-<b>Checks/MoneyOrders</b>
+## Checks/MoneyOrders
 
 Please make checks and money orders payable to “Southam Law LLC” and send them to:
  > Southam Law LLC   
@@ -29,7 +29,7 @@ Please make checks and money orders payable to “Southam Law LLC” and send th
 
 Add your full legal name in the memo field so our accountant knows this is your payment.
 
-<b>Debit or credit card</b>
+## Debit or credit card
 
 To pay by debit or credit card, please phone the office at 773-466-4478 or email us. We can take a payment over the phone or email you a link for a payment. If you use a link to pay, please add your full legal name in the memo field so our accountant knows this is your payment.
 
