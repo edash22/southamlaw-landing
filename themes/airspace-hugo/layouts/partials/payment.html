@@ -1,0 +1,18 @@
+{{ partial "global-header.html" . }}
+
+<section>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-12 col-sm-12">
+          <br />
+          {{ if eq .Params.lang "en" }}
+            <a href = "../pagos/">Se encuentre una versión en español.</a>
+          {{ else if eq .Params.lang "es" }}
+            <a href = "../payment/">An English language version is available.</a>
+          {{ end }}
+
+          {{ .Content }}
+        </div>
+    </div>
+  </div>
+</section>

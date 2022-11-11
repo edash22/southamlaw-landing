@@ -1,15 +1,16 @@
 +++
 title = "Payments and Billing"
 bgImage = "images/depaul-loop-trimmed.jpg"
-lang = "en"
+lang = "es"
+id = "payment"
 +++
 
 # Esta página tiene información sobre
 
-<a href "#how-to-make-a-payment">Cómo hacer un pago</a><br>
-<a href "#when-to-make-a-payment">Cuándo hacer un pago</a><br>
-<a href "#account-statements/invoices">Estados de cuenta/facturas</a><br>
-<a href "#when-to-make-a-payment">Otros consejos</a><br>
+<a href = "#how-to-make-a-payment">Cómo hacer un pago</a><br>
+<a href = "#when-to-make-a-payment">Cuándo hacer un pago</a><br>
+<a href = "#account-statements/invoices">Estados de cuenta/facturas</a><br>
+<a href = "#when-to-make-a-payment">Otros consejos</a><br>
 
 # Cómo hacer un pago
 
