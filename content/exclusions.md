@@ -6,7 +6,7 @@ lang = "en"
 +++
 
 
-Southam Law LLC is a law office dedicated to keep costs in control for our clients. Your agreement details the services that are included and services that are excluded. This page offers more information about excluded services and extra-cost services.
+<br>Southam Law LLC is a law office dedicated to keep costs in control for our clients. Your agreement details the services that are included and services that are excluded. This page offers more information about excluded services and extra-cost services.
 
 # Excluded Services
 Southam Law LLC is unable to provide the following services:
@@ -20,7 +20,7 @@ This includes the Social Security Administration, drivers licenses and state IDs
 ## Services for detained individuals
 Southam Law LLC is not equipped to help individuals in immigration detention. Our online presence and focus on minimizing costs makes us a poor fit for the type of services detained individuals need.
 
-## Routine delay-related inquiries or requests to expedite
+## Inquiries related to common delays or requests to expedite
 We understand how important these servcies are to you and how delays from immigration officials can cause you harm. Unfortunately, immigration officials are overwhelmed and do not alow inquiries about common delays or non-emergency requests to expedite a case. Southam Law LLC will agree to submit an inquiry or request that immigration officials expedite your case only if you are facing a true life-or-death situation. <br>
 
 
