@@ -6,49 +6,49 @@ lang = "es"
 +++
 
 
-Southam Law LLC is a law office dedicated to keep costs in control for our clients. Your agreement details the services that are included and services that are excluded. This page offers more information about excluded services and extra-cost services.
+Southam Law LLC es una oficina de abogados dedicada a mantener los costos bajos para nuestros clientes. Su acuerdo detalla los servicios que están incluidos y los servicios que están excluidos. Esta página ofrece más información sobre servicios excluidos y servicios con costo adicional.
 
-# Excluded Services
-Southam Law LLC is unable to provide the following services:
+# Servicios Excluidos
+Southam Law LLC no puede proporcionar los siguientes servicios:
 
-## Support with technology
-Including troubleshooting your online accounts with immigration offices, your video conferencing software, or any other technology-related concerns
+## Apoyo con tecnología
+Incluyendo la solución de problemas de sus cuentas en línea con las oficinas de inmigración, su software de videoconferencia o cualquier otra inquietud relacionada con la tecnología.
 
-## Assistance with non-immigration offices
-This includes the Social Security Administration, drivers licenses and state IDs, professional licenses, insurance companies, etc.
+## Asistencia con las oficinas de no inmigración
+Esto incluye la Administración del Seguro Social, licencias de conducir e identificaciones estatales, licencias profesionales, compañías de seguros, etc.
 
-## Services for detained individuals
-Southam Law LLC is not equipped to help individuals in immigration detention. Our online presence and focus on minimizing costs makes us a poor fit for the type of services detained individuals need.
+## Servicios para personas detenidas
+Southam Law LLC no está equipado para ayudar a las personas en detención de inmigrantes. Nuestra presencia en línea y nuestro enfoque en minimizar los costos nos hace inadecuados para el tipo de servicios que necesitan las personas detenidas.
 
-## Routine delay-related inquiries or requests to expedite
-We understand how important these servcies are to you and how delays from immigration officials can cause you harm. Unfortunately, immigration officials are overwhelmed and do not alow inquiries about common delays or non-emergency requests to expedite a case. Southam Law LLC will agree to submit an inquiry or request that immigration officials expedite your case only if you are facing a true life-or-death situation. <br>
+## Consultas relacionadas con retrasos comunes o solicitudes para acelerar
+Entendemos cuán importantes son estos servicios para usted y cómo las demoras de los funcionarios de inmigración pueden causarle daño. Desafortunadamente, los funcionarios de inmigración están abrumados y no permiten consultas sobre demoras comunes o solicitudes que no son de emergencia para acelerar un caso. Southam Law LLC aceptará enviar una consulta o solicitar que los funcionarios de inmigración aceleren su caso solo si se enfrenta a una situación real de vida o muerte. <br>
 
 
-# Extra-cost Services & Fees
+# Servicios y tarifas con costo adicional
 
-Southam Law LLC charges extra fees for missed appointments and extra services as noted below. You are strongly encouraged to avoid these extra costs by attending all scheduled appointments, returning documents early, and by considering other alternatives.
+Southam Law LLC cobra tarifas adicionales por citas perdidas y servicios adicionales como se indica a continuación. Le recomendamos enfáticamente que evite estos costos adicionales asistiendo a todas las citas programadas, devolviendo los documentos con anticipación y considerando otras alternativas.
 
-## Missed Appointments
-Southam Law LLC charges a $200 fee for a missed appointment. We ask you to cancel any appointment you cannot attend at least 24 hours in advance to avoid this fee.
+## Citas perdidas
+Southam Law LLC cobra una tarifa de $200 por una cita perdida. Le pedimos que cancele cualquier cita a la que no pueda asistir con al menos 24 horas de anticipación para evitar esta tarifa.
 
-## Last-Minute Mailing
-Southam Law LLC charges a $100 fee to submit an application overnight to immigration officials if the urgency is due to your delay in returning necessary items or responding to important emails or calls.
+## Envío de última hora
+Southam Law LLC cobra una tarifa de $100 para enviar una solicitud de la noche a la mañana a los funcionarios de inmigración si la urgencia se debe a su demora en devolver los artículos necesarios o responder a correos electrónicos o llamadas importantes.
 
-## Translations
-Southam Law LLC charges a minimum of $50 per page of translation and up to $200 per page of translation. At this time, we can offer translations into English from: French, German, or Spanish only. We cannot offer translation services from other languages. Our translations are only for US immigration purposes. They are not professional translations, notarized, or legalized translations. We are not professional translators. Our costs are as follows.
+## Traducciones
+Southam Law LLC cobra un mínimo de $50 por página de traducción y hasta $200 por página de traducción. En este momento, podemos ofrecer traducciones al inglés desde: francés, alemán o español únicamente. No podemos ofrecer servicios de traducción de otros idiomas. Nuestras traducciones son solo para fines de inmigración de EEUU. No son traducciones profesionales, notariadas o legalizadas. No somos traductores profesionales. Nuestros costos son los siguientes.
 
--$50/page for tabular-based documents (like most birth certificates, IDs, bank statements, etc.)<br>
--$100/page for personal statements and witness letters (non-legal documents)<br>
--$150/page for other text-based documents (like text-based birth certificates)<br>
--$200/page for legal documents (such as court orders, company registration)
+-$50/página para documentos tabulares (como la mayoría de los certificados de nacimiento, identificaciones, extractos bancarios, etc.)<br>
+-$100/página para declaraciones personales y cartas de testigos (documentos no legales)<br>
+-$150/página para otros documentos basados en texto (como actas de nacimiento basadas en texto)<br>
+-$200/página para documentos legales (como órdenes judiciales, registro de empresas)
 
-Alternatives. US immigration officials do not require a professional translation. You are encouraged to work on your own translation (maybe with the help of someone you know). Then someone (not you, not a close family member, not your attorney) must sign a certificate to say that the translation is accurate. You might also consider a professional translation company.
+Alternativas. Los funcionarios de inmigración de EEUU no requieren una traducción profesional. Le animamos a que trabaje en su propia traducción (quizás con la ayuda de alguien que conozca). Luego, alguien (no usted, ni un familiar cercano, ni su abogado) debe firmar un certificado para decir que la traducción es precisa. También podría considerar una empresa de traducción profesional.
 
-Special Note. If your application has a time-sensitive deadline and you have not obtained translations, Southam Law reserves the right to translate necessary document(s) and charge you the fees noted above in order to meet the deadline.
+Nota especial. Si su solicitud tiene una fecha límite urgente y no ha obtenido traducciones, Southam Law se reserva el derecho de traducir los documentos necesarios y cobrarle las tarifas indicadas anteriormente para cumplir con la fecha límite.
 
-## Address updates
-Southam Law LLC must charge a fee to update your address with immigration officials. The process is time consuming. Each person must individually submit a separate address update (electronically) for each pending application with USCIS. If you are applying for asylum, a U-visa, a T-visa, or benefits under the Violence Against Women Act (VAWA), you must send a physical address update form to immigration officials. If you are in court, you must send the form (usually in paper) to the court and also send a copy of the form to Immigration and Customs Enforcement (ICE).
+## Actualizaciones de direcciones
+Southam Law LLC debe cobrar una tarifa para actualizar su dirección con los funcionarios de inmigración. El proceso lleva mucho tiempo. Cada persona debe enviar individualmente una actualización (electrónicamente) de dirección por separado para cada solicitud pendiente con USCIS. Si está solicitando asilo, una visa U, una visa T o beneficios bajo la Ley de Violencia contra la Mujer (VAWA), debe enviar un formulario de actualización de dirección física a los funcionarios de inmigración. Si está en la corte, debe enviar el formulario (generalmente en papel) a la corte y también enviar una copia del formulario al Servicio de Inmigración y Control de Aduanas (ICE).
 
-If you ask Southam Law LLC to help, we charge $25 per form.
+Si le pide ayuda a Southam Law LLC, le cobramos $25 por formulario.
 
-Alternative. An address update is not hard, just time-consuming. You can do this yourself. Search online for “AR-11.” Do a separate AR-11 for each person and each open application. Southam Law LLC is happy to provide you the mailing address for asylum, U-visas, T-visas, and VAWA. If you are in court, you must complete a form EOIR-33/IC. Southam Law LLC is happy to provide you the mailing addresses for the court and for ICE.
+Alternativa. Una actualización de dirección no es difícil, solo requiere mucho tiempo. Puede hacerlo usted mismo. Busque en línea "AR-11". Haga un AR-11 por separado para cada persona y cada aplicación abierta. Southam Law LLC se complace en proporcionarle la dirección postal para asilo, visas U, visas T y VAWA. Si está en la corte, debe completar un formulario EOIR-33/IC. Southam Law LLC se complace en proporcionarle las direcciones postales del tribunal y del ICE.
