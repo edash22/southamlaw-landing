@@ -44,7 +44,7 @@ Southam Law LLC charges a minimum of $50 per page of translation and up to $200 
 
 Alternatives. US immigration officials do not require a professional translation. You are encouraged to work on your own translation (maybe with the help of someone you know). Then someone (not you, not a close family member, not your attorney) must sign a certificate to say that the translation is accurate. You might also consider a professional translation company.
 
-Special Note. If your application has a time-sensitive deadline and you have not obtained translations, Southam Law reserves the right to translate necessary document(s) and charge you the fees noted above in order to meet the deadline.
+Special Note. If your application has an urgent deadline and you have not obtained translations, Southam Law reserves the right to translate necessary document(s) and charge you the fees noted above in order to meet the deadline.
 
 ## Address updates
 Southam Law LLC must charge a fee to update your address with immigration officials. The process is time consuming. Each person must individually submit a separate address update (electronically) for each pending application with USCIS. If you are applying for asylum, a U-visa, a T-visa, or benefits under the Violence Against Women Act (VAWA), you must send a physical address update form to immigration officials. If you are in court, you must send the form (usually in paper) to the court and also send a copy of the form to Immigration and Customs Enforcement (ICE).
