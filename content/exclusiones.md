@@ -14,7 +14,7 @@ Southam Law LLC no puede proporcionar los siguientes servicios:
 ## Apoyo con tecnología
 Incluyendo la solución de problemas de sus cuentas en línea con las oficinas de inmigración, su software de videoconferencia o cualquier otra inquietud relacionada con la tecnología.
 
-## Asistencia con las oficinas de no inmigración
+## Asistencia con oficinas que no son inmigración
 Esto incluye la Administración del Seguro Social, licencias de conducir e identificaciones estatales, licencias profesionales, compañías de seguros, etc.
 
 ## Servicios para personas detenidas
