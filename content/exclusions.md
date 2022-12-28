@@ -1,7 +1,7 @@
 +++
 title = "Exclusions and Extra-cost Services"
 bgImage = "images/depaul-loop-trimmed.jpg"
-id = "payment"
+id = "exclusions"
 lang = "en"
 +++
 
