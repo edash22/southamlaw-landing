@@ -32,9 +32,9 @@ El Acuerdo entra en vigor cuando lo firma y lo devuelve a Southam Law LLC.
 
 El Acuerdo continuará teniendo efecto y Southam Law LLC continuará brindando servicios como se describe en Su Acuerdo hasta que ocurra uno de estos eventos:
 
--Aprobación de Su solicitud o caso,
--Negación de Su solicitud o caso,
--Suspensión de servicios bajo este Acuerdo (por Usted o por Southam Law LLC), o
+-Aprobación de Su solicitud o caso,<br>
+-Negación de Su solicitud o caso,<br>
+-Suspensión de servicios bajo este Acuerdo (por Usted o por Southam Law LLC), o<br>
 -el "fin natural" de Su solicitud o caso.
 
 El “Fin Natural” de los servicios está relacionado con el tipo de servicio. Su Acuerdo indicará si los servicios consisten en preparar y presentar una solicitud o si los servicios consisten en representación en una entrevista o audiencia judicial. Si Su Acuerdo es para preparar y enviar una solicitud, el "fin natural" de los servicios ocurre cuando los funcionarios de inmigración emiten un recibo o acuse de recibo de la solicitud o presentación. (Sin embargo, los servicios se reanudarán si los funcionarios de inmigración emiten una "Solicitud de evidencia" o "RFE" en Su solicitud o caso). Si Su Acuerdo es para representación en una entrevista o audiencia judicial, el "Fin natural" de los servicios ocurre la conclusión de la entrevista o audiencia. (Sin embargo, si la entrevista o la audiencia se posponen o cancelan, el "fin natural" se produce cuando Southam Law LLC o Usted se enteran del aplazamiento o la cancelación).
