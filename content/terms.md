@@ -32,9 +32,9 @@ The Agreement enters into force when You sign it and return it to Southam Law LL
 
 The Agreement will continue to have effect and Southam Law LLC will continue to provide services as described in Your Agreement until one of these events happens:
 
--Approval of Your application or case,
--Denial of Your application or case,
--Suspension of services under this Agreement (by You or by Southam Law LLC), or
+-Approval of Your application or case,<br>
+-Denial of Your application or case,<br>
+-Suspension of services under this Agreement (by You or by Southam Law LLC), or<br>
 -the "Natural End" of Your application or case.
 
 The “Natural End” of services is connected to the type of service. Your Agreement will indicate whether the services consist of preparing and submitting an application or whether the services consist representation at an interview or court hearing. If Your Agreement is for preparing and submitting and application, the “Natural End” of services occurs when immigration officials issue a receipt or acknowledgement of the application or submission. (However, the services will resume if immigration officials issue a “Request for Evidence” or “RFE” in Your application or case.) If Your Agreement is for representation at an interview or court hearing, the “Natural End” of services occurs at the conclusion of the interview or hearing. (However, if the interview or hearing is postponed or cancelled, the “Natural End” occurs when Southam Law LLC or You learn of the postponement or cancellation).
