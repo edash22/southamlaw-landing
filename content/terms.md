@@ -16,15 +16,15 @@ The Agreement is a contract between You and Southam Law LLC. In this You are giv
 
 ## What is included and excluded in the Agreement?
 
-Your Agreement indicates the specific services that are included in Your Agreement. Southam Law LLC agrees only to the services noted in Your Agreement. Your Agreement also lists exclusions, and more details of exclusions is found on the Exclusions and Extra-Cost Services list. In the event that a service does not appear on Your Agreement or on the Exclusions and Extra-Cost Services list, that service is excluded.
+Your Agreement indicates the specific services that are included in Your Agreement. Southam Law LLC agrees only to the services noted in Your Agreement. Your Agreement also lists exclusions, and more details of exclusions is found on the Exclusions and Extra-Cost Services list: https://southamlaw.com/exclusions/. In the event that a service does not appear on Your Agreement or on the Exclusions and Extra-Cost Services list, that service is excluded.
 
 ## What are the costs for services and payment schedule?
 
-Your Agreement indicates the total cost of these legal services, the amount of Your initial payment, and the amount of any monthly payments. You agree to pay these fees promptly. You can find more information about how to make a payment on the Payments page.
+Your Agreement indicates the total cost of these legal services, the amount of Your initial payment, and the amount of any monthly payments. You agree to pay these fees promptly. You can find more information about how to make a payment on the Payments page: https://southamlaw.com/payment/.
 
 ## Will fees increase?
 
-Your Agreement is a fixed fee. The fee will not increase or decrease except in the following circumstances. If You or Southam Law LLC suspends services early, the fee for services may increase or decrease (as noted in the "What happens if You or Southam Law LLC suspends services?" section below). In addition, Southam Law LLC may rarely have to charge fees for urgent translation or urgent mailing services as noted in the Excluded and Extra-Cost Services list. In addition, if You make and then fail to keep an appointment with a member of Southam Law LLC's staff, You will be charged a missed appointment fee as noted in the Excluded and Extra-Cost Services page. You agree to pay these additional fees if they are incurred.
+Your Agreement is a fixed fee. The fee will not increase or decrease except in the following circumstances. If You or Southam Law LLC suspends services early, the fee for services may increase or decrease (as noted in the "What happens if You or Southam Law LLC suspends services?" section below). In addition, Southam Law LLC may rarely have to charge fees for urgent translation or urgent mailing services as noted in the Excluded and Extra-Cost Services list: https://southamlaw.com/exclusions/. In addition, if You make and then fail to keep an appointment with a member of Southam Law LLC's staff, You will be charged a missed appointment fee as noted in the Excluded and Extra-Cost Services page. You agree to pay these additional fees if they are incurred.
 
 ## How long will the Agreement last?
 
