@@ -1,5 +1,5 @@
 +++
-title = "Payments and Billing"
+title = "Pagos y facturación"
 bgImage = "images/depaul-loop-trimmed.jpg"
 lang = "es"
 id = "multi-lingual"
