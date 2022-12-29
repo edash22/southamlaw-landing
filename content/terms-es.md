@@ -16,15 +16,15 @@ El Acuerdo es un contrato entre Usted y Southam Law LLC. En este Usted está oto
 
 ## ¿Qué se incluye y excluye en el Acuerdo?
 
-Su Acuerdo indica los servicios específicos que se incluyen en Su Acuerdo. Southam Law LLC acepta solo los servicios indicados en Su Acuerdo. Su Acuerdo también enumera las exclusiones, y se encuentran más detalles de las exclusiones en la lista de Exclusiones y servicios con costo adicional. En caso de que un servicio no aparezca en Su Acuerdo o en la lista de Exclusiones y Servicios con costo adicional, ese servicio está excluido.
+Su Acuerdo indica los servicios específicos que se incluyen en Su Acuerdo. Southam Law LLC acepta solo los servicios indicados en Su Acuerdo. Su Acuerdo también enumera las exclusiones, y se encuentran más detalles de las exclusiones en la lista de Exclusiones y servicios con costo adicional: https://southamlaw.com/exclusions-es/. En caso de que un servicio no aparezca en Su Acuerdo o en la lista de Exclusiones y Servicios con costo adicional, ese servicio está excluido.
 
 ## ¿Cuáles son los costos de los servicios y el calendario de pagos?
 
-Su Acuerdo indica el costo total de estos servicios legales, el monto de Su pago inicial y el monto de cualquier pago mensual. Usted acepta pagar estas tarifas puntualmente. Puede encontrar más información sobre cómo realizar un pago en la página de Pagos.
+Su Acuerdo indica el costo total de estos servicios legales, el monto de Su pago inicial y el monto de cualquier pago mensual. Usted acepta pagar estas tarifas puntualmente. Puede encontrar más información sobre cómo realizar un pago en la página de Pagos: https://southamlaw.com/payment-es/.
 
 ## ¿Aumentarán las tarifas?
 
-Su Acuerdo es una tarifa fija. La tarifa no aumentará ni disminuirá excepto en las siguientes circunstancias. Si Usted o Southam Law LLC suspenden los servicios antes de tiempo, la tarifa por los servicios puede aumentar o disminuir (como se indica en la sección "¿Qué sucede si Usted o Southam Law LLC suspenden los servicios?" a continuación). Además, es posible que Southam Law LLC rara vez tenga que cobrar tarifas por servicios urgentes de traducción o correo urgente, como se indica en la lista de Exclusiones y Servicios con costo adicional. Además, si hace una cita con un miembro del personal de Southam Law LLC y luego no la cumple, se le cobrará una tarifa por cita perdida como se indica en la página Exclusiones y Servicios con costo adicional. Usted acepta pagar estas tarifas adicionales si se incurre en ellas.
+Su Acuerdo es una tarifa fija. La tarifa no aumentará ni disminuirá excepto en las siguientes circunstancias. Si Usted o Southam Law LLC suspenden los servicios antes de tiempo, la tarifa por los servicios puede aumentar o disminuir (como se indica en la sección "¿Qué sucede si Usted o Southam Law LLC suspenden los servicios?" a continuación). Además, es posible que Southam Law LLC rara vez tenga que cobrar tarifas por servicios urgentes de traducción o correo urgente, como se indica en la lista de Exclusiones y Servicios con costo adicional: https://southamlaw.com/exclusions-es/. Además, si hace una cita con un miembro del personal de Southam Law LLC y luego no la cumple, se le cobrará una tarifa por cita perdida como se indica en la página Exclusiones y Servicios con costo adicional. Usted acepta pagar estas tarifas adicionales si se incurre en ellas.
 
 ## ¿Cuánto durará el Acuerdo?
 
