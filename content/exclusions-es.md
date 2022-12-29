@@ -25,7 +25,7 @@ Southam Law LLC no está equipado para ayudar a las personas en detención de in
 Entendemos cuán importantes son estos servicios para usted y cómo las demoras de los funcionarios de inmigración pueden causarle daño. Desafortunadamente, los funcionarios de inmigración están abrumados y no permiten consultas sobre demoras comunes o solicitudes que no son de emergencia para acelerar un caso. Southam Law LLC aceptará enviar una consulta o solicitar que los funcionarios de inmigración aceleren su caso solo si se enfrenta a una situación real de vida o muerte. <br>
 
 
-# Servicios y tarifas con costo adicional
+# Servicios con costo adicional y tarifas
 
 Southam Law LLC cobra tarifas adicionales por citas perdidas y servicios adicionales como se indica a continuación. Le recomendamos enfáticamente que evite estos costos adicionales asistiendo a todas las citas programadas, devolviendo los documentos con anticipación y considerando otras alternativas.
 
