@@ -10,7 +10,7 @@ class = "payment"
 
 <a href = "#cómo-hacer-un-pago">Cómo hacer un pago</a><br>
 <a href = "#cuándo-hacer-un-pago">Cuándo hacer un pago</a><br>
-<a href = "#estados-de-cuenta-facturas">Estados de cuenta/facturas</a><br>
+<a href = "#estados-de-cuenta-y-facturas">Estados de cuenta y facturas</a><br>
 <a href = "#otros-consejos">Otros consejos</a><br>
 
 # Cómo hacer un pago
@@ -48,7 +48,7 @@ Para pagar en efectivo, <font color="#E52426">llame a la oficina al 773-466-4478
 
 <b>Pago mensual/recurrente</b>: realice cualquier pago mensual o recurrente <font color="#E52426">antes del día 20 del mes</font> para que su pago aparezca en su estado de cuenta.
 
-# Estados de Cuenta/Facturas
+# Estados de Cuenta y Facturas
 
 <b>Primer estado de cuenta</b>: Dentro de unos días a una semana después de firmar un contrato de servicios, recibirá su primer estado de cuenta. Llegará por correo desde <font color="#E52426">quickbooks@notification.intuit.com</font>. Le recomendamos que agregue esta dirección de correo a su lista de “remitentes seguros”. Le recomendamos que realice un pago inicial tan pronto como reciba el estado de cuenta. Si no recibe un estado de cuenta después de una semana, comuníquese con nuestra oficina por correo a info@southamlaw.com.
 
