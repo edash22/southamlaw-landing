@@ -1,7 +1,8 @@
 +++
 title = "Terms and conditions"
 bgImage = "images/depaul-loop-trimmed.jpg"
-id = "terms"
+id = "multi-lingual"
+class = "terms"
 lang = "en"
 +++
 
@@ -72,4 +73,3 @@ If a check that You submit is returned for insufficient funds (“bounced”), Y
 ## What if You disagree with this version of the Terms and Conditions?
 
 These Terms and Conditions are effective as of January 1, 2022 \. If You feel that this version of the Terms and Conditions conflicts with Your Agreement as it was signed, Southam Law LLC is happy to provide prior versions of Terms and Conditions on request.
-

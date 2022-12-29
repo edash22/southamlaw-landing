@@ -1,8 +1,9 @@
 +++
-title = "Payments and Billing"
+title = "Pagos y facturación"
 bgImage = "images/depaul-loop-trimmed.jpg"
 lang = "es"
-id = "payment"
+id = "multi-lingual"
+class = "payment"
 +++
 
 # Esta página tiene información sobre
