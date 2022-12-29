@@ -8,10 +8,10 @@ class = "payment"
 
 # Esta página tiene información sobre
 
-<a href = "#how-to-make-a-payment">Cómo hacer un pago</a><br>
-<a href = "#when-to-make-a-payment">Cuándo hacer un pago</a><br>
-<a href = "#account-statements/invoices">Estados de cuenta/facturas</a><br>
-<a href = "#when-to-make-a-payment">Otros consejos</a><br>
+<a href = "#cómo-hacer-un pagot">Cómo hacer un pago</a><br>
+<a href = "#cuándo-hacer-un-pago">Cuándo hacer un pago</a><br>
+<a href = "#estados-de-cuenta/facturas">Estados de cuenta/facturas</a><br>
+<a href = "#otros-consejos">Otros consejos</a><br>
 
 # Cómo hacer un pago
 
