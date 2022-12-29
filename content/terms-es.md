@@ -1,7 +1,8 @@
 +++
 title = "Términos y Condiciones"
 bgImage = "images/depaul-loop-trimmed.jpg"
-id = "terms"
+id = "multi-lingual"
+class = "terms"
 lang = "es"
 +++
 

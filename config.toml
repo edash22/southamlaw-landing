@@ -51,6 +51,10 @@ theme = "airspace-hugo"
       url = "terms"
     [[menu.footer]]
       weight = 4
+      name = "Exclusions"
+      url = "exclusions"
+    [[menu.footer]]
+      weight = 5
       name = "Make a payment"
       url = "payment"
 

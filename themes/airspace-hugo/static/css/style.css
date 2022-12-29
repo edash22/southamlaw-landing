@@ -584,7 +584,6 @@ body.is-preload #slider.fade-in:before {
   letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
-  text-transform: capitalize;
   }
 
 #global-header .block p {

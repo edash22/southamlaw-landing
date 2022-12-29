@@ -6,9 +6,9 @@
         <div class="col-md-12 col-sm-12">
           <br />
           {{ if eq .Params.lang "en" }}
-            <a href = "../exclusiones/">Se encuentre una versión en español.</a>
+            <a href = "../{{ .Params.class }}-es/">Se encuentre una versión en español.</a>
           {{ else if eq .Params.lang "es" }}
-            <a href = "../exclusions/">An English language version is available.</a>
+            <a href = "../{{ .Params.class }}/">An English language version is available.</a>
           {{ end }}
 
           {{ .Content }}

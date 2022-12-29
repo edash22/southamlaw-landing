@@ -2,7 +2,8 @@
 title = "Payments and Billing"
 bgImage = "images/depaul-loop-trimmed.jpg"
 lang = "en"
-id = "payment"
+id = "multi-lingual"
+class = "payment"
 +++
 
 # This page has information about
