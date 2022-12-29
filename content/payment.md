@@ -10,7 +10,7 @@ class = "payment"
 
 <a href = "#how-to-make-a-payment">How to make a payment</a><br>
 <a href = "#when-to-make-a-payment">When to make a payment</a><br>
-<a href = "#account-statementsinvoices">Statements/Invoices</a><br>
+<a href = "#account-statements-and-invoices">Statements and Invoices</a><br>
 <a href = "#when-to-make-a-payment">Other tips</a><br>
 
 # How to make a payment
@@ -47,7 +47,7 @@ To pay by cash, please <font color="#E52426">phone the office at 773-466-4478</f
 
 <b>Monthly/Recurring payment</b>: please make any monthly or recurring payments payment <font color="#E52426">by the 20th</font> so that your payment shows on your account statement.
 
-# Account Statements/Invoices
+# Account Statements and Invoices
 
 <b>First Statement</b>: Within a few days to a week after you sign a contract for services you will receive your first account statement. It will arrive <font color="#E52426">by email from quickbooks@notification.intuit.com</font>. We recommend that you add this email address to your "safe senders" list. We encourage you to make an initial payment as soon as you get the account statement. If you don’t get an account statement after a week, please contact our office by email at info@southamlaw.com.
 
