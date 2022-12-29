@@ -8,9 +8,9 @@ class = "payment"
 
 # Esta página tiene información sobre
 
-<a href = "#cómo-hacer-un pagot">Cómo hacer un pago</a><br>
+<a href = "#cómo-hacer-un-pago">Cómo hacer un pago</a><br>
 <a href = "#cuándo-hacer-un-pago">Cuándo hacer un pago</a><br>
-<a href = "#estados-de-cuenta/facturas">Estados de cuenta/facturas</a><br>
+<a href = "#estados-de-cuenta-facturas">Estados de cuenta/facturas</a><br>
 <a href = "#otros-consejos">Otros consejos</a><br>
 
 # Cómo hacer un pago
