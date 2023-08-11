@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html class="hydrated"><head>
-	<meta charset="utf-8"><style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
+  <meta charset="utf-8"><style data-styles="">ion-icon{visibility:hidden}.hydrated{visibility:inherit}</style>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -37,6 +37,27 @@
   <script src="/js/main.js"></script>
 
   <style>
+    #landing-top {
+      background-image: url('/images/depaul-loop.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center 0%;
+      padding: 200px 0 280px 0;
+      position: relative;
+    } 
+    #landing-top:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to left, #330809, #661012);
+      opacity: 0.85;
+    }
 
     @media screen {
       #slider {
@@ -237,6 +258,25 @@
         </div>
       </div>
     </div>
+  </section>
+
+  <section id="landing-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="block text-center">
+            <h1 class="animated fadeInUp text-uppercase">Understand Your Case. Keep Costs Down.</h1>
+            <p class="animated fadeInUp">Some additional message goes here.</p>
+            <a class="btn btn-main btn-solid-border" href="/services">Let's Talk! Free Consultation</a>
+          </div>
+        </div>
+        <div class="col-md-6" style="background-image: url('https://abbasiimmigrationlaw.com/wp-content/uploads/2022/09/happyPeople.jpg');">
+          <div class="block">
+            <p> &nbsp; </p>
+          </div>
+        </div>
+      </div>  <!-- end row -->
+    </div>  <!-- end container -->
   </section>
 
   <section id="feature" style="background-image: url('/');">
