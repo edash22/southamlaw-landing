@@ -1,5 +1,7 @@
 +++
 title = "Luis"
+image = "luis.jpg"
+imagealt = "A headshot of Luis. He is wearing a suit with a blue jacket and a red tie"
 +++
 
 Luis López is an accomplished professional with a passion for law and a strong background in legal services. Originally from Venezuela, Luis earned his law degree there and practiced as a lawyer before embarking on a journey to expand his knowledge further. Currently, he is pursuing an LL.M (Master of Laws) at Loyola University in Chicago, broadening his expertise in the field of law. In addition to his LL.M studies, Luis holds a master's degree in Political Science and Government from the Universidad Metropolitana in Caracas, Venezuela.
