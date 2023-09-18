@@ -34,17 +34,17 @@
               {{ if .Params.image }}
               {{ if not (modBool $counter 2) }}
                 <!-- Odd goes right -->
-                <div class="pull-right" style="margin-left: 15px; margin-bottom: 15px">
+                <div class="pull-right">
               {{ else }}
                 <!-- Even goes left -->
-                <div class="pull-left" style="margin-right: 15px; margin-bottom: 15px">
+                <div class="pull-left">
               {{ end }}
                 {{ $image := .Resources.GetMatch .Params.image }}
                     <!-- resize the image associated for better loading times -->
-                    <!-- at medium, the max width is 417px (on the side of the tesxt)-->
-                    {{ $md_full3x := $image.Resize "1251x" }}
-                    {{ $md_full2x := $image.Resize "834x" }}
-                    {{ $md_full1x := $image.Resize "417x" }}
+                    <!-- at medium, the max width is 350px (on the side of the text)-->
+                    {{ $md_full3x := $image.Resize "1050x" }}
+                    {{ $md_full2x := $image.Resize "700x" }}
+                    {{ $md_full1x := $image.Resize "350x" }}
                     <!-- at small, the max width is 680px (below the text)-->
                     {{ $sm_full3x := $image.Resize "2040x" }}
                     {{ $sm_full2x := $image.Resize "1360x" }}

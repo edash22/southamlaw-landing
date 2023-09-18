@@ -1580,9 +1580,29 @@ px      68    160    252    344    436    */
 .biophoto img {
 }
 
+#who-we-are .pull-right {
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+#who-we-are .pull-left {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
 @media only screen and (max-width: 991px) {
   .biophoto img {
     width: 50%;
     margin: 5px;
   }
+
+  /* Use the same margin when in small screen mode*/
+  #who-we-are .pull-right {
+    float: left!important;
+  }
+
+  #who-we-are .pull-left {
+    margin-left: 15px;
+  }
+
 }
