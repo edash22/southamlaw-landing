@@ -6,7 +6,7 @@ class = "terms"
 lang = "es"
 +++
 
-## ¿Por qué eisten estos Términos y Condiciones?
+## ¿Por qué existen estos Términos y Condiciones?
 
 Estos Términos y condiciones acompañan a un Acuerdo de asociación legal (es decir, un contrato). Si Le pidió a Southam Law LLC que Lo ayudara con una solicitud o caso específico, Southam Law LLC Le pedirá que firme un Acuerdo de asociación legal. Estos Términos y condiciones brindan reglas más detalladas para el Acuerdo de asociación legal entre Usted y Southam Law LLC. En el Acuerdo de Asociación Legal y en estos Términos y Condiciones, las palabras “Usted”, "Le", "Lo", "Su" o "Sus" significan la persona o personas que firmaron el Acuerdo de Asociación Legal, y la palabra “Acuerdo” significa el Acuerdo de Asociación Legal.
 
