@@ -398,7 +398,20 @@
   </style>
 </head>
 <body class="" style="">
-  <header>
+  <header style="padding-top:0;">
+    <section id="top-bar" style="background: #713233; margin-bottom:10px;">
+      <div class="row">
+        <div class="col-md-12">
+          <div>
+            <div class="block text-center mbtm5">
+              <p class="animated fadeInUp txt-white mgn5">Call Now for a FREE Case Assessment: 
+                <a class="phone-link" href="tel:+17733895415">773.389.5415</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -878,6 +891,9 @@
     <div class="container">
       <div class="row">
         <div class="text-center">
+          <p class="text-center txt-feature txt-white" style="margin-top:20px;">Call Now for a FREE Case Assessment: 
+            <a class="phone-link" href="tel:+17733895415">773.389.5415</a></p>
+          <hr style="height:1px; width: 250px">
           <h2 style="color: #fff;">Let's Talk!</h2>
           <p class="text-center txt-feature txt-white">Let Us Know How Can We Help</p>
         </div>
@@ -894,6 +910,15 @@
             <input type="email" id="femail" name="email" required="" >
             <label for="fphone">Phone</label>
             <input type="text" id="fphone" name="phone" >
+            <label for="fsituation" style="margin-top:10px;">Type of Situation:</label>
+            <select id="fsituation" name="fsituation">
+              <option value="marriage">Marriage/Fiance Visa</option>
+              <option value="studentvisa">Student Visa</option>
+              <option value="workvisa">Work Visa</option>
+              <option value="e2invvisa">E2 Investor Visa</option>
+              <option value="asylum">Asylum/TPS</option>
+              <option value="explore">Explore My Options</option>
+            </select><br><br>
             <label for="fmsg">Message *</label>
             <textarea id="fmsg" name="message" required="" ></textarea>
             <button type="submit">Send Message</button>
